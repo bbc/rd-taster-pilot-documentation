@@ -1,0 +1,15 @@
+doctype 5
+html
+  head
+    title
+    each css in styles
+      link(type='text/css', rel='stylesheet', href='#{css}')
+  body
+    div Loading...
+    textarea#mdstr('style=display:none') #{mdstr}
+    each js in scripts
+      script(src='#{js}')
+    script
+      var mdstr = document.getElementById('mdstr').value;
+      var html = markdown.toHTML(mdstr);
+      document.body.innerHTML = html;
