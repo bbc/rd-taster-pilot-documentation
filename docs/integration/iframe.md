@@ -50,7 +50,6 @@ The following snippet uses JQuery to send the correct height to Taster:
     }
     $(notifyHeightChange());
     $(window).resize(notifyHeightChange);
- 
 
 The harness listens to the appropriate events and will resize in response to what is sent.
 
