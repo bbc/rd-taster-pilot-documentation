@@ -5,11 +5,11 @@
 The BBC's stats library is available documented here http://bbc.github.io/echo-docs/
 You will be provided with counter names to use, there will be of the form
 
-	corporate.connectedstudio.<pilotname>.<page identifiers>.page
+	corporate.connectedstudio.<pilot_name>.<page_identifiers>.page
 
 You will also need to add a label if the pilot is being tested in Taster, this will be of the form 
 
-	tasterpilot=<pilot name>
+	pilot_name=<pilot_name>
  
 ## Legal Links
 
@@ -41,8 +41,8 @@ There are two main approaches to integrating into Taster:
 * [New Window](integration/new-window.md)
 
 You should talk to the Taster team to understand which is best for your application. As a general
-rule of thumb, things like interactive video, standalone games, etc work best in an IFrame. Standalone
-websites and external things like Twitter bots work best in a New Window. Use the links above to
+rule of thumb, things like interactive video, standalone games, etc. work best in an IFrame. Standalone
+websites and external things like Twitter bots work best in a new window. Use the links above to
 read more about the different approaches and integration hooks.
 
 ## Technical review
