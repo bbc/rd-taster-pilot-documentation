@@ -3,7 +3,7 @@
 ## Stats: Echo
 
 The BBC's stats library is available documented here http://bbc.github.io/echo-docs/
-You will be provided with counter names to use, there will be of the form
+You will be provided with counter names to use, these will be of the form
 
 	taster.pilot.<pilot_name>.internal.<page_identifiers>.page
 
