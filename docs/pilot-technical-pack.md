@@ -5,7 +5,7 @@
 The BBC's stats library is available documented here http://bbc.github.io/echo-docs/
 You will be provided with counter names to use, there will be of the form
 
-	corporate.connectedstudio.<pilot_name>.<page_identifiers>.page
+	taster.pilot.<pilot_name>.internal.<page_identifiers>.page
 
 You will also need to add a label if the pilot is being tested in Taster, this will be of the form 
 
