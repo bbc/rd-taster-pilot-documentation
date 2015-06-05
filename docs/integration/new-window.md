@@ -22,7 +22,7 @@ your application.
 To integrate our offsite panel you need to add the following tags to your application HTML, replacing <pilot_id> (e.g. hackstage-pass)
 and <panel_type> (e.g. link, rating) with the appropriate values before embedding.  
 
-    <script src="www.bbc.co.uk/taster/offsite-panel.js" type="text/javascript" />
+    <script src="http://www.bbc.co.uk/taster/pilot-lib.js" type="text/javascript" />
     <iframe class="taster-offsite-panel" src="www.bbc.co.uk/taster/projects/<pilot_id>/offsite/<panel_type>" frameborder="0"></iframe>
 
 The panel can be given a width with CSS or the width attribute on the iframe element; the height will be responsively
