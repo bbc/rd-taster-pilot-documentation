@@ -38,11 +38,13 @@ The panel is initialised by adding the following JS snippet to the page:
         });
     </script>
 
-# Link
+There are two types of panel: link and rate.
+
+### `link`
 
 The Link variant of the panel features a button which, when clicked, opens the appropriate Taster Pilot Page in a 
 new window, with the rating dropdown open.  
 
-# Rating
+### `rate`
 
-_TBC_
+The Rate variant keeps users on your page without directing them back to Taster. For users without JavaScript this behaves like the link panel. With this widget the users can rate and answer survey questions on the page and the contents of the iframe update themselves accordingly.
