@@ -9,7 +9,7 @@ simulate the additional hooks provided by Taster documented below.
 To get a copy of this, visit the [bbcconnectedstudio/taster-harness release page](https://github.com/BBCConnectedStudio/taster-harness/releases)
 and download dist.zip for the most recent release.
 
-You can then edit the JS config in the top of the index.html page to point at your pilot.
+You can then edit the JS config in the top of the index.html page to point at your pilot. The harness only works when served over HTTP, so you should do something like: `python -mSimpleHTTPServer` in the unzipped folder and then access http://localhost:8000.
 
 ## Sizing the IFrame
 
