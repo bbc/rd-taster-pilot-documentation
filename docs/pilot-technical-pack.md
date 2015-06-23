@@ -10,6 +10,10 @@ You will be provided with counter names to use, these will be of the form
 You will also need to add a label if the pilot is being tested in Taster, this will be of the form 
 
 	pilot_name=<pilot_name>
+
+Please use the hosted version of the javascript library which is available here
+
+http://static.bbci.co.uk/echoclient/modules/echo-4.0.2.js
  
 ## Legal Links
 
