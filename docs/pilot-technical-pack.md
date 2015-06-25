@@ -9,12 +9,14 @@ You will be provided with counter names to use, these will be of the form
 
 You will also need to add a label if the pilot is being tested in Taster, this will be of the form 
 
-	pilot_name=<pilot_name>
+	pilot_name=<pilot-name>
 
 Please use the hosted version of the javascript library which is available here
 
 http://static.bbci.co.uk/echoclient/modules/echo-4.0.2.js
- 
+
+The pilot ID as used in the counter name should match the ID you are assigned for Taster, but with the dashes converted to underscores. When used in the pilot_name label, you should make sure it matches the Taster name exactly. For example, the pilot 'My Test Pilot' may be assigned the Taster ID 'my-test-pilot', so you should set the label `pilot_name=my-test-pilot`, and use the counter name of `taster.pilot.my_test_pilot.internal.something.page`.
+
 ## Legal Links
 
 If the pilot is going to presented outside the Taster frame you will need to add links (usually at the bottom) to BBC 
