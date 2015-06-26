@@ -14,6 +14,12 @@ You will also need to add a label if the pilot is being tested in Taster, this w
 Please use the hosted version of the javascript library which is available here
 
 http://static.bbci.co.uk/echoclient/modules/echo-4.0.2.js
+
+You may see some failed calls (probably 401) from this library, don't worry about these, they are calls to a currently disabled analytics system.
+
+You can check whether your implementation is working with this chrome extension
+
+https://chrome.google.com/webstore/detail/dax-istats-log/jgkkagdpkhpdpddcegfcahbakhefbbga?hl=en-GB
  
 ## Legal Links
 
