@@ -23,7 +23,7 @@ To integrate our offsite panel you need to add the following tags to your applic
 and <panel_type> (e.g. link, rating) with the appropriate values before embedding.  
 
     <script src="http://www.bbc.co.uk/taster/pilot-lib.js" type="text/javascript" />
-    <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot_id>/offsite/<panel_type>" frameborder="0"></iframe>
+    <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot_id>/offsite/<panel_type>" frameborder="0" scrolling="no"></iframe>
 
 The panel can be given a width with CSS or the width attribute on the iframe element; the height will be responsively
 adjusted so this must be left unset.  The minimum width is 285px, any less and the panel will not display correctly.  
