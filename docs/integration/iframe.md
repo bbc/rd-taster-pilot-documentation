@@ -53,6 +53,25 @@ The following snippet uses JQuery to send the correct height to Taster:
 
 The harness listens to the appropriate events and will resize in response to what is sent.
 
+## Opening the Inside Story
+
+The [window.postMessage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage)
+can be used to send messages to Taster to request that it hide the pilot and display its Inside Story.
+
+The format of the message sent should be JSON in the form:
+
+    { type: 'showInsideStory' }
+
+Using postMessage you should not specify a target to maximise compatibility. As a result
+postMessage **should not be relied on or used to communicate any security critical data**.
+You can assume Taster has set up event listeners before your IFrame is loaded - you do not
+have to take into account race conditions.
+
+The following snippet will ask Taster to display the Inside Story:
+ 
+    window.parent.postMessage('{ "type": "showInsideStory" }', '*');
+
+
 ## Autoplaying/pausing
 
 The Taster site starts by pre-loading a pilot in an invisible IFrame that is then shown when the user
