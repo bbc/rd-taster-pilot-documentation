@@ -11,9 +11,36 @@ You will also need to add a label if the pilot is being tested in Taster, this w
 
 	pilot_name=<pilot-name>
 
-Please use the hosted version of the javascript library which is available here
+Please use the hosted version of the javascript library which is available here:
 
 http://static.bbci.co.uk/echoclient/modules/echo-4.0.2.js
+
+To use this version you need to amend your requiremap:
+
+```require.config({ paths: {'echo-4.0.2' : 'http://static.bbci.co.uk/echoclient/modules/echo-4.0.2'} });```
+
+Echo can then be invoked in the manner detailed in the Echo documentation, for example: 
+
+```
+   require(['echo-4.0.2'], function(Echo){
+
+       var Media = Echo.Media,             // Media class
+           EchoClient = Echo.EchoClient,   // Echo Client class
+           Enums = Echo.Enums,             // Enums
+           ConfigKeys = Echo.ConfigKeys,   // Key names to use in config
+           Environment = Echo.Environment; // Class to allow overriding default behaviour
+
+       var echo = new EchoClient(
+           'taster',                    // App Name
+           Enums.ApplicationType.WEB   // App Type
+       );
+
+       //You can optionally set the version of your application:
+       echo.setAppVersion('1.0.0');
+
+       echo.viewEvent("taster.pilot.some-pilot.internal.home.page");
+   });    
+```
 
 You may see some failed calls (probably 401) from this library, don't worry about these, they are calls to a currently disabled analytics system.
 
