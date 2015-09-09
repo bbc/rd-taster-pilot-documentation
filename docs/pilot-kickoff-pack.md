@@ -46,8 +46,8 @@ Click [here](pilot-testing.md) to read more on each of these kinds of testing, i
 ##User Experience and Design
 
 The design and user experience of the pilot is the responsibility of the pilot team, however we are able to offer some support (for example in the form of design guidance from our Creative Director) where necessary.
-### Fonts
-Any fonts reqired should preferably be available in the [Typekit](https://typekit.com/) collection, which the BBC already has a licence to use.
+
+*Fonts:* Any fonts reqired should preferably be available in the [Typekit](https://typekit.com/) collection, which the BBC already has a licence to use.
 
 ##Editorial Policy and Moderation
 
