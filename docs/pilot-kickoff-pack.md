@@ -2,9 +2,9 @@
 
 The information below is meant to support the kickoff process for a Connected Studio pilot project. There are many things to think about when starting a pilot, and we hope this info will act as a good reference and make things a bit simpler for you.
 
-##The PID
+##The Project Brief
 
-The Project Initiation Document (PID) is sometimes referred to as a PAR (Project Authorisation Request) but both are essentially describing the same thing: a document outlining the brief for the project, which is to be provided by the Project Manager to the indie at the start of the project.
+The Project Brief (sometimes called a Project Initiation Document (PID) or a PAR (Project Authorisation Request) depending on your flavour of Project Management) is essentially a document outlining the brief for the project, which is to be provided by the Project Manager to the indie at the start of the project.
 
 For reference, a template for this document can be found [here](https://myshare.app.box.com/files/0/f/3851198575/1/f_32018319221).
 
@@ -27,7 +27,7 @@ Information about all of these can be found [here](pilot-technical-pack.md). It�
 
 ##Digital Analytics or ‘iStats’
 
-Some pilots will include digital analytics in order to track certain interactions within the content, and thus gather information about particular user behaviour. This is considered to be supplementary Audience Testing information (please see the section on Audience Testing below to see how this fits in with the other measurements we are able to make).
+Some pilots will include digital analytics in order to track certain interactions within the content, and thus gather information about particular user behaviour. This is considered to be supplementary Audience Testing information (please see the section on [testing](pilot-testing.md) to see how this fits in with the other measurements we are able to make).
 
 The ‘tagging spec’ containing a list of what will be tagged, and the correct tag names, will be provided by the Connected Studio and Taster team. The tags themselves will need to be implemented by the indie (technical information on the BBC’s stats library can be found [here](pilot-technical-pack.md)). Data analysis and reporting on the analytics are the responsibility of the CS and Taster team.
 
