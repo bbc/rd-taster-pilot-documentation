@@ -47,15 +47,22 @@ Click [here](pilot-testing.md) to read more on each of these kinds of testing, i
 
 The design and user experience of the pilot is the responsibility of the pilot team, however we are able to offer some support (for example in the form of design guidance from our Creative Director) where necessary.
 
-*Fonts:* Any fonts reqired should preferably be available in the [Typekit](https://typekit.com/) collection, which the BBC already has a licence to use.
+*Fonts:* Any fonts required should preferably be available in the [Typekit](https://typekit.com/) collection, which the BBC already has a licence to use.
+
+##Editorial Content
+Editorial content assets (e.g. images, video clips, audio clips, music) are normally provided by the BBC Editorial team. Any assets required should be discussed and agreed as early as possible as part of the kickoff process.
+
+###Content Rights
+
+Any pilot appearing on Taster will require a ‘WebasC’ form to be completed, listing all the assets used and any rights details. It will be the BBC Editorial team’s responsibility to do this nearer the end of the pilot, but the pilot team should be aware that they may need to keep a log of (and in some cases check for permission to use) any images, video clips, audio clips, music etc that they need, which will make the process much simpler.
+
+##Skills Gaps
+
+Consideration should be given to whether any specialist skills are required that can't be easily covered by either then indie or BBC teams. For example, this might be in the form of freelance writers, sound designers, talent etc.
 
 ##Editorial Policy and Moderation
 
 All pilots will need some consideration of Editorial Policy issues, and in some cases (for example where user generated content is involved) moderation may be required. It is the responsibility of the BBC Editorial team to decide if this is required - but any potentially sensitive content should be flagged by the pilot team as early as possible, particularly because, if moderation is required, extra technical effort will be required from the pilot team to integrate with the BBC moderation system.
-
-##Content Rights
-
-Any pilot appearing on Taster will require a ‘WebasC’ form to be completed, listing all the assets used and any rights details. It will be the BBC Editorial team’s responsibility to do this nearer the end of the pilot, but the pilot team should be aware that they may need to keep a log of any images, video clips, audio clips, music etc that they use, which will make the process much simpler.
 
 ##Trademarking and Copyright
 
