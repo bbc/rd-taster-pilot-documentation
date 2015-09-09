@@ -14,15 +14,22 @@ Once the PID has been received by the indie, they can draw up a detailed Stateme
 
 A set of guidelines for what a SoW should include can be found here.
 
+##Technical Considerations
+
+A technical representative from Connected Studio/Taster will be assigned to the project from the beginning, and should be able to help answer any questions about the technical approach that should be taken.
+
+Around kickoff, the teams will also have to agree on the platfroms that will be supported by the pilot (devices, browsers etc). Your Taster technical lead can help guide this decision, but it is normally a compromise between technical feasibility, cost, and audience reach.
+
 ##Taster Integration
 
-For most CS pilots, the intention will be to get them onto BBC Taster for a trial period of 3 months. There will be a number of activities involved in integrating the pilot with the Taster site and making sure it works correctly. Information about this can be found [here](pilot-technical-pack.md). It’s recommended that indies have a look at this early on so they can plan for these activities.
+For most CS pilots, the intention will be to get them onto BBC Taster for a trial period of 3 months. There will be a number of activities involved in integrating the pilot with the Taster site and making sure it works correctly. This includes things like deciding on whether the pilot will open in an iFrame within the Taster page, or as a new window. It also includes information about cookie wanrnings, analytics, the Taster 'badge' used to collect ratings, and the Taster test harness.
+Information about all of these can be found [here](pilot-technical-pack.md). It’s recommended that indies have a look at this early on so they can plan for these activities.
 
-##User Experience and Design
+##Digital Analytics or ‘iStats’
 
-The design and user experience of the pilot is the responsibility of the pilot team, however we are able to offer some support (for example in the form of design guidance from our Creative Director) where necessary.
-### Fonts
-Any fonts reqired should preferably be available in the [Typekit](https://typekit.com/) collection, which the BBC already has a licence to use.
+Some pilots will include digital analytics in order to track certain interactions within the content, and thus gather information about particular user behaviour. This is considered to be supplementary Audience Testing information (please see the section on Audience Testing below to see how this fits in with the other measurements we are able to make).
+
+The ‘tagging spec’ containing a list of what will be tagged, and the correct tag names, will be provided by the Connected Studio and Taster team. The tags themselves will need to be implemented by the indie (technical information on the BBC’s stats library can be found [here](pilot-technical-pack.md)). Data analysis and reporting on the analytics are the responsibility of the CS and Taster team.
 
 ##Testing: the different types
 
@@ -34,13 +41,13 @@ There are three different kinds of testing we talk about at Connected Studio, wh
 
 * User Acceptance Testing (UAT) - how we test if a correctly functioning product has been delivered
 
-Click here to read more on each of these kinds of testing, including when they are carried out and who has responsibility for them.
+Click [here](pilot-testing.md) to read more on each of these kinds of testing, including when they are carried out and who has responsibility for them.
 
-##Digital Analytics or ‘iStats’
+##User Experience and Design
 
-Some pilots will include digital analytics in order to track certain interactions within the content, and thus gather information about particular user behaviour. This is considered to be supplementary audience testing information; please see the section on Audience Testing above to see how this fits in with the other measurements we are able to make.
-
-The ‘tagging spec’ containing a list of what will be tagged, and the correct tag names, will be provided by the Connected Studio and Taster team. The tags themselves will need to be implemented by the indie (technical information on the BBC’s stats library can be found [here](pilot-technical-pack.md)). Data analysis and reporting on the analytics are the responsibility of the CS and Taster team.
+The design and user experience of the pilot is the responsibility of the pilot team, however we are able to offer some support (for example in the form of design guidance from our Creative Director) where necessary.
+### Fonts
+Any fonts reqired should preferably be available in the [Typekit](https://typekit.com/) collection, which the BBC already has a licence to use.
 
 ##Editorial Policy and Moderation
 
@@ -48,7 +55,7 @@ All pilots will need some consideration of Editorial Policy issues, and in some 
 
 ##Content Rights
 
-Any pilot appearing on Taster will require a ‘WebasC’ form to be completed, listing all the assets used and any rights details. It will be the BBC Editorial team’s responsibility to do this, but the pilot team should be aware that they may need to keep a log of any images, video clips, audio clips, music etc that they use, which will make the process much simpler.
+Any pilot appearing on Taster will require a ‘WebasC’ form to be completed, listing all the assets used and any rights details. It will be the BBC Editorial team’s responsibility to do this nearer the end of the pilot, but the pilot team should be aware that they may need to keep a log of any images, video clips, audio clips, music etc that they use, which will make the process much simpler.
 
 ##Trademarking and Copyright
 
