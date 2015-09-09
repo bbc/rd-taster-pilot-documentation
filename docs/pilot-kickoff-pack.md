@@ -6,13 +6,13 @@ The information below is meant to support the kickoff process for a Connected St
 
 The Project Initiation Document (PID) is sometimes referred to as a PAR (Project Authorisation Request) but both are essentially describing the same thing: a document outlining the brief for the project, which is to be provided by the Project Manager to the indie at the start of the project.
 
-For reference, a template for this document can be found here.
+For reference, a template for this document can be found [here](https://myshare.app.box.com/files/0/f/3851198575/1/f_32018319221).
 
 ##Statement of Work
 
 Once the PID has been received by the indie, they can draw up a detailed Statement of Work (SoW) which outlines the work to be done, together with costs. The contract will be based on this once it has been agreed.
 
-A set of guidelines for what a SoW should include can be found here.
+A set of guidelines for what a SoW should include can be found [here](https://myshare.app.box.com/files/0/f/3497311632/1/f_29206998094).
 
 ##Technical Considerations
 
