@@ -1,3 +1,7 @@
+Taster technical on-boarding
+======
+
+
 <table><tr><th style="width:20%">Stage</th><th style="width:30%">Notes</th><th style="width:25%">Taster team do</th><th style="width:25%">Pilot teams do</th></tr><tr><th><p><strong>Technology/ <br>Pre-development <br><strong></strong></strong></p></th><td><p>To understand if there are any specific technology requirements for the pilot, it's always best to start a conversation with the Taster team early on in the project.</p><p><strong>For pilots using bespoke technologies</strong>, the pilot team should organise a tech kick-off meeting with the Taster team.<strong> </strong></p><p><strong>For pilots using existing technologies </strong>(Touchcast, Interlude, YouTube, etc), the pilot team should get in touch with the Taster team to understand if a tech kick-off meeting in needed, as the process is generally much more simple.</p></td><td><ul><li>Review & help you understand the implications of the technology options.</li></ul></td><td><ul>
 <li>Contacted Taster team: <a href="mailto:taster@bbc.co.uk" rel="nofollow">taster@bbc.co.uk</a></li>
 <li>Arranged meeting (if needed)</li>
