@@ -44,7 +44,7 @@ Taster technical on-boarding
 <li>Provide list of <a href="http://modernizr.com/" rel="nofollow">Modernizr</a> required features</li>
 </ul>
 </td></tr><tr><th><strong>Analytics</strong></th><td><p>Taster provides some basic analytics for free, such as visitor numbers, referrers and devices, which is displayed in a custom dashboard along with your survey responses.</p><p>For custom DAX reporting, we can provide you with counter names to add into your pilot.</p><p>It's important to note that you <strong>cannot use Google Analytics</strong> in your pilot as it's against BBC infosec policies.</p></td><td><ul><li>Advise and provide you with custom counter names, based on interactions you wish to measure within the pilot</li><li>Provide you with a dashboard login.</li></ul></td><td><ul>
-<li>Discuss custom Analytics requirements with Taster team</li>
+<li>[Set-up your counternames and labels: Format](https://github.com/BBCConnectedStudio/documentation/blob/master/docs/pilot-technical-pack.md)</li>
 <li>Request dashboard login from Taster team</li>
 </ul>
 </td></tr><tr><th><strong>Testing, compatibility, </strong><strong>accessibility</strong></th><td><p>It's important that your pilot works across as many devices as the technology allows, and adheres to <a href="http://www.bbc.co.uk/guidelines/futuremedia/accessibility/" rel="nofollow">BBC accessibility standards</a> where possible.</p><p>It's also your responsibility to make sure that there are no snags in the user journey that may hard the user experience.</p></td><td><ul><li>As we have a very small technical team, we're unable to carry out testing. We can, however, advise teams in how they might go about it.</li></ul></td><td><ul>
