@@ -52,7 +52,7 @@ Taster technical on-boarding
 <li>Ensure pilot works across majority of devices</li>
 <li>Tested user journey<br><br></li>
 </ul>
-</td></tr><tr><th><p><strong>Final sign-off and deployment</strong></p><p><strong><strong></strong></strong></p></th><td><p>Your Taster ID/URL needs to be set up at least 2 days before going live in order to set up DAX counter names, etc.</p><p>Please allow <strong>2-3 working days</strong> before going live for final sign off by the Taster team.</p></td><td><ul><li>Sign-off pilot</li><li>Provide Taster ID/URL</li><li>Help with any deployment issues</li><li>Update Taster CMS with pilot details</li><li>Publish pilot live on Taster</li></ul></td><td><ul>
+</td></tr><tr><th><p><strong>Final sign-off and deployment</strong></p><p><strong><strong></strong></strong></p></th><td><p>Your Taster ID/URL needs to be set up at least 2 days before going live in order to set up DAX counter names, etc.</p><p>Please allow <strong> 5 working days</strong> before going live for final sign off by the Taster team.</p></td><td><ul><li>Sign-off pilot</li><li>Provide Taster ID/URL</li><li>Help with any deployment issues</li><li>Update Taster CMS with pilot details</li><li>Publish pilot live on Taster</li></ul></td><td><ul>
 <li>Relevant points above checked-off</li>
 <li>Taster ID/URL requested</li>
 <li>Final files handed over</li>
