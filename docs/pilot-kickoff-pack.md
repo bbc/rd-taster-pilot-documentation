@@ -22,8 +22,9 @@ Around kickoff, the teams will also have to agree on the platfroms that will be 
 
 ##Taster Integration
 
-For most CS pilots, the intention will be to get them onto BBC Taster for a trial period of 3 months. There will be a number of activities involved in integrating the pilot with the Taster site and making sure it works correctly. This includes things like deciding on whether the pilot will open in an iFrame within the Taster page, or as a new window. It also includes information about cookie wanrnings, analytics, the Taster 'badge' used to collect ratings, and the Taster test harness.
-Information about all of these can be found [here](pilot-technical-pack.md). It’s recommended that indies have a look at this early on so they can plan for these activities.
+For most CS pilots, the intention will be to get them onto BBC Taster for a trial period of 3 months. There will be a number of activities involved in integrating the pilot with the Taster site and making sure it works correctly. This includes things like deciding on whether the pilot will open in an iFrame within the Taster page, or as a new window. Development teams will also need to know about cookie wanrnings, analytics, the Taster 'badge' used to collect ratings, and the Taster test harness.
+
+All the technical steps needed for launching a pilot on Taster are documented [here](taster-tech-on-boarding.md). It’s recommended that the development teams have a look at this early on so they can plan for these activities.
 
 ##Digital Analytics or ‘iStats’
 
