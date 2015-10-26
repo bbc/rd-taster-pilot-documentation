@@ -19,7 +19,7 @@ To use this version you need to amend your requiremap:
 
 ```require.config({ paths: {'echo-4.0.2' : 'http://static.bbci.co.uk/echoclient/modules/echo-4.0.2'} });```
 
-Echo can then be invoked in the manner detailed in the Echo documentation, for example: 
+Echo can then be invoked in the manner detailed in the Echo documentation, for example for a pilot called 'some-pilot': 
 
 ```
    require(['echo-4.0.2'], function(Echo){
@@ -35,6 +35,7 @@ Echo can then be invoked in the manner detailed in the Echo documentation, for e
            Enums.ApplicationType.WEB   // App Type
        );
        
+       //set bbc_site managed label - this label is mandatory and is required to assign data in comscore to the correct BBC product:
        echo.addManagedLabel(Enums.ManagedLabels.BBC_SITE, "taster");
 
        //You can optionally set the version of your application:
