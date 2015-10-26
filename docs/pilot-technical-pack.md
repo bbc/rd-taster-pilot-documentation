@@ -34,6 +34,8 @@ Echo can then be invoked in the manner detailed in the Echo documentation, for e
            'taster',                    // App Name
            Enums.ApplicationType.WEB   // App Type
        );
+       
+       echo.addManagedLabel(Enums.ManagedLabels.BBC_SITE, "taster");
 
        //You can optionally set the version of your application:
        echo.setAppVersion('1.0.0');
