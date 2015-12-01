@@ -79,7 +79,7 @@ As part of your technical review we will be looking at cookie usage to check whe
 
 We do client-side feature detection to let our audience know whether a pilot will work on their device or not, and require a list of the required features for the pilot, eg:
 
-CSS Animations, CSS 2D Transforms, CSS 3D Transforms, CSS Transitions, Session Storage, Touch Events, CSS Animations, CSS Gradients, CSS Reflections, CSS 2D Transforms, CSS 3D Transforms, CSS Transitions, Canvas, Canvas Text, HTML5 Audio, HTML5 Video, HTML5 Media Source Extensions, Flash (version 12 or later), Flash (all versions), Not iPhone, Flexbox, localStorage, Cross-window messaging, sessionStorage, Web Sockets, Web SQL Database
+CSS Animations, CSS 2D Transforms, CSS 3D Transforms, CSS Transitions, Session Storage, CSS Animations, CSS Gradients, CSS Reflections, CSS 2D Transforms, CSS 3D Transforms, CSS Transitions, Canvas, Canvas Text, HTML5 Audio, HTML5 Video, HTML5 Media Source Extensions, Flash (version 12 or later), Flash (all versions), Not iPhone, Flexbox, localStorage, Cross-window messaging, sessionStorage, Web Sockets, Web SQL Database
 
 ## Taster Integration
 
