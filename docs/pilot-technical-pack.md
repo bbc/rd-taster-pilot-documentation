@@ -77,9 +77,9 @@ As part of your technical review we will be looking at cookie usage to check whe
 
 ## Device Capabilities
 
-We do client-side feature detection to let our audience know whether a pilot will work on their device or not, and require a list of the required features for the pilot, eg:
+Users aren't always able to use browsers and devices that support the latest features that pilots rely on. To prevent them from receiving a broken experience, the Taster platform performs [feature detection](https://modernizr.com/docs/#what-is-feature-detection) and if their browser does not support the required features we display a message that suggests they try with an alternative browser.
 
-CSS Animations, CSS 2D Transforms, CSS 3D Transforms, CSS Transitions, Session Storage, CSS Animations, CSS Gradients, CSS Reflections, CSS 2D Transforms, CSS 3D Transforms, CSS Transitions, Canvas, Canvas Text, HTML5 Audio, HTML5 Video, HTML5 Media Source Extensions, Flash (version 12 or later), Flash (all versions), Not iPhone, Flexbox, localStorage, Cross-window messaging, sessionStorage, Web Sockets, Web SQL Database
+More information can be found on our [supported devices page](supported-devices.md).
 
 ## Taster Integration
 
