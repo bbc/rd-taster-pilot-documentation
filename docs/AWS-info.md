@@ -17,6 +17,7 @@ These instances tend to be a little more complex, and the deployment process lar
 * The deployment instructions would ideally compose of a list of components, and a deployment script. This allows is to identify each component, its function, and how each component fits together.
 * We understand that there will always be a level of configuration specific to each deployment (such as secret-keys, instance addresses, and access lists etc), but modifiable configuration scripts will allow us to deploy you pilot with greater efficiency.
 * If we are aware that the pilot is likely to receive a lot of traffic (large PR), we may opt to invest additional resources to ensure smooth and stable operation.
+* Please consider the failure of the instance and write code that will reinitialise if a machine is rebooted.
 
 ### Defaults
 
