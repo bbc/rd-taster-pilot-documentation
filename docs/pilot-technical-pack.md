@@ -1,15 +1,15 @@
 #Pilot Technical Pack
 
-## Stats: Echo
+## Stats (Analytics): Taster uses BBC echo analytics for tracking reports
 
 The BBC's stats library is available documented here http://bbc.github.io/echo-docs/
-You will be provided with counter names to use, these will be of the form
+Taster offers integrated basic analytics for both embeding options: iFrame and Windows. These are: page views, rating counts, and sharing counts
 
-	taster.pilot.<pilot_name>.internal.<page_identifiers>.page
+For more custom analytics within the pilot pages and specific interations, you need to create your own counternames and labels following the formats below
 
-You will also need to add a label if the pilot is being tested in Taster, this will be of the form 
+<strong>Countername:</strong>	taster.pilot.<pilot_id>.internal.<page_identifiers>.page
 
-	pilot_name=<pilot-name>
+<strong>Labels:</strong>	pilot_id=<pilot-name>
 
 Please use the hosted version of the javascript library which is available here:
 
