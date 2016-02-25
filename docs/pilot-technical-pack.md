@@ -7,7 +7,7 @@ Taster offers integrated basic analytics for both embeding options: iFrame and W
 
 For more custom analytics within the pilot pages and specific interations, you need to create your own counternames and labels following the formats below
 
-Countername: taster.pilot.&lt;pilot_id&gt;.internal.&lt;page_identifiers&lt;.page
+Countername: taster.pilot.&lt;pilot_id&gt;.internal.&lt;page_identifiers&gt;.page
 
 Labels: pilot_id=&lt;pilot-name&gt;
 
