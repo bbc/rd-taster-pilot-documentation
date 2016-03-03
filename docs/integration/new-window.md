@@ -19,8 +19,8 @@ Taster's rate screen. This should only be used when a HTML solution is not possi
 Our preferred solution is an embeddable panel - a responsive widget which exposes Taster branding and functionality for
 your application.
 
-To integrate our offsite panel you need to add the following tags to your application HTML, replacing <pilot_id> (e.g. hackstage-pass)
-and <panel_type> (e.g. link, rating) with the appropriate values before embedding.  
+To integrate our offsite panel you need to add the following tags to your application HTML, replacing `<pilot_id>` (e.g. hackstage-pass)
+and `<panel_type>` (see below table) with the appropriate values before embedding.  
 
     <script src="http://www.bbc.co.uk/taster/pilot-lib.js" type="text/javascript" ></script>
     <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot_id>/offsite/<panel_type>" frameborder="0" scrolling="no"></iframe>
@@ -38,13 +38,9 @@ The panel is initialised by adding the following JS snippet to the page:
         });
     </script>
 
-There are two types of panel: link and rate.
+There are two types of panel:
 
-### `link`
-
-The Link variant of the panel features a button which, when clicked, opens the appropriate Taster Pilot Page in a 
-new window, with the rating dropdown open.  
-
-### `rate`
-
-The Rate variant keeps users on your page without directing them back to Taster. For users without JavaScript this behaves like the link panel. With this widget the users can rate and answer survey questions on the page and the contents of the iframe update themselves accordingly.
+| `<panel_type>` | use |
+| --------------|-----|
+| `link` | The panel features a button which, when clicked, opens the appropriate Taster Pilot Page in a new window, with the rating dropdown open |
+| `rate` | Keeps users on your page without directing them back to Taster. For users without JavaScript this behaves like the link panel. With this widget the users can rate and answer survey questions on the page and the contents of the iframe update themselves accordingly |
