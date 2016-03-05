@@ -1,19 +1,18 @@
-# Taster Analytics Documentation: Standard & Custom
+# Taster Analytics for Pilots: Standard & Custom
 
 ## Table of Contents
-- [Background](#background)
-- [What do I need to do?](#what-to-do)
-- [How do I do this?](#how-to-do)
+- [Introduction](#intro)
+- [Standard Analytics intro](#Standard-Analytics)
+- [Custom Analytics intro](#custom-Analytics)
+- [How do I Implement these?](#how-to-do)
   - [Standard Analytics](#standard)
   - [Custom Behavioural Analytics](#custom)
 - [Reporting](#reporting)
 
 
 
-<div id='background'/>
-## Background
-
-
+<div id='intro'/>
+## Introduction
 Analytics are essential elements to your pilot. Taster is built on a data platform that is driven by the way we implement tracking in pilots and on the Taster site itself.
 
 The success of pilots also depends on how pilots are measured, and analysed. The successful implementation of ways to capture data about a pilot is essential to doing this.
@@ -24,11 +23,9 @@ _There are 2 types of analytics implementation:_
 
 **Custom behavioural:** This is an extra step that we will need to work together on. This tracks where people went in a pilot, and what they did. While this is not mandatory, we would recommend including this kind of tracking in pilots where you would like to understand in detail user journeys, interactions, etc.
 
-<div id='what-to-do'/>
-##So what do I need to do?
+So what do I need to do... Don't worry! It's not difficult.
 
-Don't worry! It's not difficult.
-
+<div id='Standard-Analytics'/>
 ###Standard Analytics:
 
 Your **standard** analytics are built into the Taster integration that you undertake with the Taster team, whether that's via the Taster site itself (for integrated pilots) or via the offsite quickrate badge (for standalone pilots), which handles all data capture. This answers:
@@ -43,6 +40,8 @@ If this is all you want to do, please go down to the [How do I do this?](#how-to
 
 If you want to know more about custom analytics, **read on..**
 
+
+<div id='custom-Analytics'/>
 ###Custom behavioural Analytics:
 
 **Custom** behavioural analytics however, need to be implemented separately as part of your build, but we want to make this easy for you, so there's a step by step process that you can take.
@@ -66,7 +65,7 @@ What you want to identify here is whether people interacted with 'things' in you
 **Another example:** I have a pilot that has a retry button at the end of the pilot. If we tag the retry button with an 'action', we can then tell how many people interacted with the retry button.
 
 <div id='how-to-do'/>
-##How do I do this?
+##How do I Implement these?
 
 <div id='standard'/>
 ###STANDARD ANALYTICS:
