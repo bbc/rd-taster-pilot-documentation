@@ -7,6 +7,7 @@
 - [How do I Implement these?](#how-to-do)
   - [Standard Analytics](#standard)
   - [Custom Behavioural Analytics](#custom)
+- [Android & iPhone Apps](#android-iphone)
 - [Reporting](#reporting)
 
 
@@ -190,10 +191,19 @@ share button:
 ```
 In order to implement both of these analytics frameworks, as mentioned before, you simply need to use the BBC's standard Echo analytics library, which allows you to set these labels and counternames through some simple Javascript.
 
-Here's how you do it:
+Also – here’s a handy template that will allow you to visualise the tagging strategy that you’re creating:
 
+[Excel tagging template](https://myshare.box.com/s/rie3w9t2gc1bjt8lrjeemq4mbpr6ss1g)
 
+<div id='Android-iPhone'/>
+##Android & iPhone Apps
 
+Fortunately iStats has already got wrappers that operates with iPhone and Android apps via Echo. This is used very frequently in apps built by cbeebies, CBBC and Knowledge & Learning, and is stable and scalable.
+
+In order to develop analytics for apps on either android or iOS, you will simply need to follow the same steps as above, but rather than using the standard Echo javascript library as above, use the required iOS or Android library as documented below:
+
+[http://bbc.github.io/echo-docs/#platforms-and-releases](http://bbc.github.io/echo-docs/#platforms-and-releases)
+ 
 
 <div id='reporting'/>
 ##Reporting
