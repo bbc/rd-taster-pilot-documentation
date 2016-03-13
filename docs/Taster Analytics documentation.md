@@ -190,11 +190,8 @@ share button:
 ```
 In order to implement both of these analytics frameworks, as mentioned before, you simply need to use the BBC's standard Echo analytics library, which allows you to set these labels and counternames through some simple Javascript.
 
-Here's how you do it:
-
-
-
-
+Also – here’s a handy template that will allow you to visualise the tagging strategy that you’re creating:
+<a href="https://myshare.box.com/s/xa5k59pqei3jtdurnh32jzt5eely572a">Taster_pilot_analytics_framework.xlsx</a>
 <div id='reporting'/>
 ##Reporting
 
