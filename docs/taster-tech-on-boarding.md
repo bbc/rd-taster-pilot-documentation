@@ -43,8 +43,16 @@ Taster technical on-boarding
 </td></tr><tr><th><strong>Required device features</strong></th><td><p>We do client-side feature detection to let our audience know whether a pilot will work on their device or not</p></td><td><ul><li><p>Configure the Taster CMS with required device capabilities.</p></li></ul></td><td><ul>
 <li>Provide list of required device capabilities, as outlined on our <a href="supported-devices.md">supported devices page</a>.</li>
 </ul>
-</td></tr><tr><th><strong>Analytics</strong></th><td><p>Taster provides some basic analytics for free, such as visitor numbers, referrers and devices, which is displayed in a custom dashboard along with your survey responses.</p><p>It's important to note that you <strong>cannot use Google Analytics</strong> in your pilot as it's against BBC infosec policies.</p></td><td><ul><li>Provide you with pilot ID, so you can create your counternames and labels, based on interactions you wish to measure within the pilot</li><li>Provide you with a dashboard login.</li></ul></td><td><ul>
-<li><a href="https://github.com/BBCConnectedStudio/documentation/blob/master/docs/pilot-technical-pack.md">Set-up your counternames and labels: Format</a></li>
+</td></tr><tr><th><strong>Analytics</strong></th><td><p>Taster provides 2 types of Analytics</p>
+<p>Standard: Tracks the number of people who visited the pilot, how many pages they consumed, where they came from (site, geography), what technology they use, and where they went next</p>
+<p>Custom behavioural: This is an extra step that we will need to work together on.</p>
+<p>It's important to note that you <strong>cannot use Google Analytics</strong> in your pilot as it's against BBC infosec policies.</p></td>
+<td>
+<ul>
+<li> Help you understand the documentation on Standard and Custom behavioral provided in the left hand side column if needed</li>
+<li>Provide you with pilot ID, so you can implement your standard analytics and custom beahvioral</li>
+<li>Provide you with a dashboard login.</li></ul></td><td><ul>
+<li><a href="https://github.com/BBCConnectedStudio/documentation/blob/master/docs/Taster%20Analytics%20documentation.md">Piot teams must read the documenation on Standard and Custom behavioral analytics HERE</a></li>
 <li>Request dashboard login from Taster team</li>
 </ul>
 </td></tr><tr><th><strong>Testing, compatibility, </strong><strong>accessibility</strong></th><td><p>It's important that your pilot works across as many devices as the technology allows, and adheres to <a href="http://www.bbc.co.uk/guidelines/futuremedia/accessibility/" rel="nofollow">BBC accessibility standards</a> where possible.</p><p>It's also your responsibility to make sure that there are no snags in the user journey that may hard the user experience.</p></td><td><ul><li>As we have a very small technical team, we're unable to carry out testing. We can, however, advise teams in how they might go about it.</li></ul></td><td><ul>
