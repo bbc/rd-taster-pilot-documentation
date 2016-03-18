@@ -1,3 +1,3 @@
 # Hosting and Presenting
 
-![Hosting and presenting overview](./unsupported_device.png?raw=true)
+![Hosting and presenting overview](./overview.png?raw=true)
