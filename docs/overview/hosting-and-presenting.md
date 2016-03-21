@@ -18,7 +18,7 @@ More information for preparing an integrated pilot is given [here](../integratio
 
 ## Standalone pilot
 
-A standalone pilot is presented in its own page - the "Try it" button opens this new page in a new tab in the user's browser.
+A standalone pilot is presented in its own page - the "Try it" button opens the in a new tab in the user's browser.
 
 ![Integrated overview](./standalone-flow.png?raw=true)
 
