@@ -6,7 +6,7 @@ Pilots are typically web applications (i.e. loaded in a web browser) - integrati
 
 ![Hosting and presenting overview](./overview.png?raw=true)
 
-Every pilot has a dedicated "pilot info" page within the site, that gives an overview of the experience and allows the user to "Try it".
+Every pilot has a dedicated "pilot info" page within the site that gives an overview of the experience and allows the user to "Try it".
 
 ## Integrated pilot
 
