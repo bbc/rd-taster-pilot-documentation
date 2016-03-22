@@ -28,7 +28,7 @@ There are additional integration steps required to prepare a standalone pilot, a
 
 ## Hosting options
 
-There are two choices for how your pilot application is hosted.
+However you choose to present your application, you will independently have to host the code/assets that power it. There are two choices for how your pilot application is hosted.
 
 ### Taster hosted
 
