@@ -10,9 +10,10 @@ You've had your idea, you know what (and maybe how) you are going to build a pil
 
 |  | Summary | More info |
 | --- | --- | --- |
-| **Describe the pilot** | Tell us about your pilot application | [more](tech-diagram.md) |
-| **How the pilot ends up on Taster** | Understand the end goal, build towards it | [more](hosting-and-presenting.md) |
+| **Describe the pilot** | Tell us about your pilot application | [Pilot technical overview](tech-diagram.md) |
+| **How the pilot ends up on Taster** | Understand the end goal, build towards it | [Hosting And Presenting](hosting-and-presenting.md) |
 | **Learn from the audience** | Measure and interpret how the audience uses your application | analytics |
 | **Maximise reach** | Who can use your pilot | supported browsers/devices |
+| **Ensure your application is secure** | Make sure your audience is safe when using the pilot | [Information Security](information-security.md) |
 | **Deploy your application** | Make it live | |
 | **Launch the pilot** | Turn it on in Taster | |
