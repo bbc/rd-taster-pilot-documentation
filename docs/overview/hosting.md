@@ -21,7 +21,7 @@ We can host your application by deploying it into our (BBC sponsored) AWS accoun
 
 ### Third party hosting
 
-![Third party hosting overview](./hosting-third-party.png?raw=true)
+![Third party hosting overview](./hosting-3rd-party.png?raw=true)
 
 It is possible to self-host your pilot application in your chosen hosting environment. In addition to signing off the **actual pilot application**  (see [information security](./information-security.md)) we will also need to assess the chosen hosting environment.
 
