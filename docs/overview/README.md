@@ -10,7 +10,7 @@ Pilots applications are typically (but not always) web applications. This docume
 
 You've had your idea, you know what pilot application you want to build to test that idea with a real audience. Now what?
 
-- [**Describe the pilot**](tech-diagram.md): Tell us about your pilot application
+- [**Describe the pilot**](pilot-description.md): Tell us about your pilot application
 - [**Present the pilot in Taster**](presentation.md): Choose the user journey for presenting the pilot in Taster
 - [**Hosting your pilot**](hosting.md): Understand and choose how the pilot application is hosted
 - **Learn from the audience**: Measure and interpret how the audience uses your application

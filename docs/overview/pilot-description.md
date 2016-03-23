@@ -31,6 +31,11 @@ Once we understand your application, the Taster technical team can:
     - serving static assets from a dedicated server
     - using distribution networks (CDNs) for large assets (video/audio)
 
+**Note**
+Even if your pilot application is mind-bogglingly simple, it is still **important** to describe it with a diagram in order to:
+ - convince us its really that simple
+ - allow us to easily verify that your application is [secure](information-security.md) and any user data collected/used by the pilot adheres to BBC policy.
+
 ## Example
 
 ### Technical diagram
