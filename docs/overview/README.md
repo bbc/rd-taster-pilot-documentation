@@ -10,13 +10,11 @@ Pilots applications are typically (but not always) web applications. This docume
 
 You've had your idea, you know what pilot application you want to build to test that idea with a real audience. Now what?
 
-| | Summary |
-| --- | --- |
-| [**Describe the pilot**](tech-diagram.md) | Tell us about your pilot application |
-| [**Present the pilot in Taster**](presenting.md) | Choose the user journey for presenting the pilot in Taster |
-| [**Hosting your pilot**](hosting.md) | Understand and choose how the pilot application is hosted |
-| **Learn from the audience** | Measure and interpret how the audience uses your application |
-| **Maximise reach** | Who can use your pilot, and what browsers/devices are supported |
-| [**Security**](information-security.md) | Ensure your audience is safe when using the pilot |
-| [**Deploy your application**](deployment) | Transfer your pilot into its (live) hosting environment |
-| [**Publish the pilot**] | Launch the pilot in Taster and let the public use it! |
+- [**Describe the pilot**](tech-diagram.md): Tell us about your pilot application
+- [**Present the pilot in Taster**](presenting.md): Choose the user journey for presenting the pilot in Taster
+- [**Hosting your pilot**](hosting.md): Understand and choose how the pilot application is hosted
+- **Learn from the audience**: Measure and interpret how the audience uses your application
+- **Maximise reach**: Who can use your pilot, and what browsers/devices are supported
+- [**Security**](information-security.md): Ensure your audience is safe when using the pilot
+- [**Deploy your application**](deployment.md): Transfer your pilot into its (live) hosting environment
+- [**Publish the pilot**](publishing.md): Launch the pilot in Taster and let the public use it!
