@@ -4,7 +4,7 @@ Every pilot has a dedicated "pilot info" page within the Taster site that gives 
 
 When the user clicks the "Try it" button, the pilot is presented to them in one of two ways. You should choose the presentation style appropriate to your pilot
 
-### Integrated pilot
+## Integrated pilot
 
 An integrated pilot is presented within the pilot info page, by loading the pilot in an `<iframe>`
 
@@ -12,7 +12,7 @@ An integrated pilot is presented within the pilot info page, by loading the pilo
 
 More information for preparing an integrated pilot is given [here](../integration/iframe.md)  
 
-### Standalone pilot
+## Standalone pilot
 
 A standalone pilot is presented in its own page - the "Try it" button opens the in a new tab in the user's browser.
 

@@ -4,7 +4,7 @@ The code and assets that power your pilot application need to be hosted on a web
 
 *Note that how the pilot is hosted is independent of how it is [presented](presentation.md) in Taster* 
 
-### Taster hosted
+## Taster hosted
 
 <img src="./hosting-taster.png" alt="Taster hosting overview" width="650" >
 
@@ -22,7 +22,7 @@ We can host your application by deploying it into our (BBC sponsored) AWS accoun
 - We can only offer limited support of your actual application, e.g. looking at log files
 - We cannot provide access to the running infrastructure to your (development) team
 
-### Third party hosting
+## Third party hosted
 
 <img src="./hosting-3rd-party.png" alt="Third party hosting overview" width="650" >
 
