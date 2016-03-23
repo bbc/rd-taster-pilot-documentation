@@ -8,7 +8,7 @@ When the user clicks the "Try it" button, the pilot is presented to them in one 
 
 An integrated pilot is presented within the pilot info page, by loading the pilot in an `<iframe>`
 
-![Integrated overview](./integrated-flow.png?raw=true)
+![Integrated overview](./images/presentation-integrated.png?raw=true)
 
 More information for preparing an integrated pilot is given [here](../integration/iframe.md)  
 
@@ -16,6 +16,6 @@ More information for preparing an integrated pilot is given [here](../integratio
 
 A standalone pilot is presented in its own page - the "Try it" button opens the in a new tab in the user's browser.
 
-![Integrated overview](./standalone-flow.png?raw=true)
+![Integrated overview](./images/presentation-standalone.png?raw=true)
 
 There are additional integration steps required to prepare a standalone pilot, as detailed [here](../integration/new-window.md)
