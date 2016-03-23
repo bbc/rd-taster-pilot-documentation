@@ -6,7 +6,7 @@ The code and assets that power your pilot application need to be hosted on a web
 
 ### Taster hosted
 
-![Taster hosting overview](./hosting-taster.png?raw=true)
+<img src="./hosting-taster.png" alt="Taster hosting overview" width="500" >
 
 We can host your application by deploying it into our (BBC sponsored) AWS account, offering the following benefits
 
