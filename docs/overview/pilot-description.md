@@ -52,7 +52,7 @@ This is required for submission as part of the [InfoSec review](information-secu
 
 This example diagram was provided by the team who delivered the BBC Drop pilot
   
-todo
+<img src="./images/drop-application.png" alt="BBC Drop application diagram" width="650" >
 
 The key learnings drawn out by the diagram are:
 - application functionality and responsibilities (per component) 
@@ -62,9 +62,9 @@ The key learnings drawn out by the diagram are:
 
 After discussion of the application diagram the Taster team produced the following diagram to describe how the application would be hosted
  
-todo
+<img src="./images/drop-hosting.png" alt="BBC Drop hosting diagram" width="650" >
 
 The key learnings drawn out by the diagram are:
 - separation of resources
 - scaling points
-- clarity of (user) data storage
+- clarity of where (user) data is stored
