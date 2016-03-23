@@ -6,7 +6,7 @@ The code and assets that power your pilot application need to be hosted on a web
 
 ## Taster hosted
 
-<img src="./hosting-taster.png" alt="Taster hosting overview" width="650" >
+<img src="./images/hosting-taster.png" alt="Taster hosting overview" width="650" >
 
 We can host your application by deploying it into our (BBC sponsored) AWS account, offering the following benefits
 
@@ -24,7 +24,7 @@ We can host your application by deploying it into our (BBC sponsored) AWS accoun
 
 ## Third party hosted
 
-<img src="./hosting-3rd-party.png" alt="Third party hosting overview" width="650" >
+<img src="./images/hosting-3rd-party.png" alt="Third party hosting overview" width="650" >
 
 It is possible to self-host your pilot application in your chosen hosting environment. In addition to signing off the **actual pilot application**  (see [information security](./information-security.md)) we will also need to assess the chosen hosting environment.
 

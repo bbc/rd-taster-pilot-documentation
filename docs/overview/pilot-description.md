@@ -32,11 +32,13 @@ Once we understand your application, the Taster technical team can:
     - using distribution networks (CDNs) for large assets (video/audio)
 
 **Note**
+
 Even if your pilot application is mind-bogglingly simple, it is still **important** to describe it with a diagram in order to:
  - convince us its really that simple
  - allow us to easily verify that your application is [secure](information-security.md) and any user data collected/used by the pilot adheres to BBC policy.
 
 **Note two**
+
 If you have decided to use [Taster hosting](hosting.md#taster-hosted) then following discussion of the application diagram, the Taster team will provide a diagram of how we intend to host it. This serves a few purposes:
 - helps you determine if we've understood the pilot correctly
 - gives you direction in separating your components and responsibilities
