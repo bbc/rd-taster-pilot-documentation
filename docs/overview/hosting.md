@@ -1,36 +1,12 @@
-# Hosting and Presenting
+# Hosting the pilot
 
-Pilots are typically web applications (i.e. loaded in a web browser) - integrating them into Taster requires two key questions to be answered:
-- How is the pilot presented in Taster
-- How is the pilot application hosted?
+The code and assets that power your pilot application need to be hosted on a webserver. There are two choices for how your pilot application is hosted.
 
-![Hosting and presenting overview](./overview.png?raw=true)
-
-## Presentation options
-
-Every pilot has a dedicated "pilot info" page within the site that gives an overview of the experience and allows the user to "Try it".
-
-### Integrated pilot
-
-An integrated pilot is presented within the pilot info page, by loading the pilot in an `<iframe>`
-
-![Integrated overview](./integrated-flow.png?raw=true)
-
-More information for preparing an integrated pilot is given [here](../integration/iframe.md)  
-
-### Standalone pilot
-
-A standalone pilot is presented in its own page - the "Try it" button opens the in a new tab in the user's browser.
-
-![Integrated overview](./standalone-flow.png?raw=true)
-
-There are additional integration steps required to prepare a standalone pilot, as detailed [here](../integration/new-window.md)  
-
-## Hosting options
-
-However you choose to present your application, you will independently have to host the code/assets that power it. There are two choices for how your pilot application is hosted.
+*Note that how the pilot is hosted is independent of how it is [presented](presentation.md) in Taster* 
 
 ### Taster hosted
+
+![Taster hosting overview](./hosting-taster.png?raw=true)
 
 We can host your application by deploying it into our (BBC sponsored) AWS account, offering the following benefits
 
@@ -44,6 +20,8 @@ We can host your application by deploying it into our (BBC sponsored) AWS accoun
 | The AWS account is signed off for use as a hosting environment by InfoSec | |
 
 ### Third party hosting
+
+![Third party hosting overview](./hosting-third-party.png?raw=true)
 
 It is possible to self-host your pilot application in your chosen hosting environment. In addition to signing off the **actual pilot application**  (see [information security](./information-security.md)) we will also need to assess the chosen hosting environment.
 
