@@ -1,26 +1,20 @@
 # Understanding your pilot application
 
-Your pilot application could be simple, it could be complex, or anywhere in-between. To make sure we have a common understanding of what your pilot is and how it works the following key documents are produced
-
-#### An [application diagram](#what-should-the-application-diagram-explain)
-- This must be created by **you**
-
-#### A [hosting diagram](#what-should-the-hosting-diagram-explain) for the application
-- If your pilot uses [Third party hosting](hosting.md#third-party-hosted) then **you** must provide this information. *Note this information could be provided in the application diagram*
-- If your pilot uses [Taster hosting](hosting.md#taster-hosted) then **the Taster team** provide this diagram. This helps confirm we've understood your pilot. 
-
+Your pilot application could be simple, it could be complex, or anywhere in-between.
+To make sure we have a common understanding of what your pilot is and how it works two key diagrams are produced. 
 Whilst the creation of these diagrams is primarily done by you, the Taster team aims to office advice and collaborate with you to refine the application design to address potential security, performance and scalability issues.
 
 Additionally, if the pilot uses Taster hosting this early collaboration helps us plan later deployment activities, and the opportunity to tailor the application design to simplify deployment into our hosting environment. 
 
 *Note that these diagrams are also submitted as part of [InfoSec review](information-security.md) process the pilot will go through*
 
-### What should the application diagram explain?
+## Application diagram
 
-This is your opportunity to describe the pilot application to us.
+This is your opportunity to describe key information about the pilot application. 
+- This must be created by **you**
 
 #### What are the discrete components of your application
-- what are the functions/responsibilites of each component
+- what are the functions/responsibilities of each component
 - what technologies/languages does each component use, e.g.
   - web servers (nginx, apache, etc)
   - persistence technologies (databases, static asset stores, in-memory caches, etc)
@@ -33,9 +27,21 @@ This is your opportunity to describe the pilot application to us.
  
 #### What external APIs/data sources the application rely upon (if any)
 
-### What should the hosting diagram explain?
+### Example
 
-This explains how the components of your application are hosted, how they interact and gives indicators on how the pilot may perform at scale
+This example diagram was provided by the team who delivered the BBC Drop pilot
+  
+<img src="./images/drop-application.png" alt="BBC Drop application diagram" width="650" >
+
+The key learnings drawn out by the diagram are:
+- application functionality and responsibilities (per component) 
+- clarity of data flow
+
+## Hosting diagram
+
+This conveys key information about the hosting of the application
+- If your pilot uses [Third party hosting](hosting.md#third-party-hosted) then **you** must provide this information. *Note this information could be provided in the application diagram*
+- If your pilot uses [Taster hosting](hosting.md#taster-hosted) then **the Taster team** provide this diagram. This helps confirm we've understood your pilot.
 
 #### Where is the pilot application hosted
 
@@ -49,19 +55,7 @@ Typically improvements can be made by e.g.
     
 #### Where is (user) data stored
 
-## Example
-
-### Technical diagram
-
-This example diagram was provided by the team who delivered the BBC Drop pilot
-  
-<img src="./images/drop-application.png" alt="BBC Drop application diagram" width="650" >
-
-The key learnings drawn out by the diagram are:
-- application functionality and responsibilities (per component) 
-- clarity of data flow
-
-### Hosting diagram
+### Example
 
 This hosting diagram was produced by the Taster team
  
