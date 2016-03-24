@@ -29,7 +29,7 @@ This is your opportunity to describe key information about the pilot application
 
 ### Example
 
-This example diagram was provided by the team who delivered the BBC Drop pilot
+This is the application diagram produced by the team who delivered the BBC Drop pilot
   
 <img src="./images/drop-application.png" alt="BBC Drop application diagram" width="650" >
 
@@ -57,7 +57,7 @@ Typically improvements can be made by e.g.
 
 ### Example
 
-This hosting diagram was produced by the Taster team
+This hosting diagram was produced by the Taster team for the BBC Drop application
  
 <img src="./images/drop-hosting.png" alt="BBC Drop hosting diagram" width="650" >
 
