@@ -23,14 +23,14 @@ You've had your idea, you know what pilot application you want to build to test 
 
 A list of the items to complete in the pilot creation process
 
-[ ] application diagram created
-[ ] hosting style chosen (Taster hosted or Third party)
-[ ] hosting diagram created
-[ ] presentation style chosen (integrated or standalone)
-[ ] integrated/standalone pilot integration steps complete
-[ ] custom analytics added (if required)
-[ ] forms completed for InfoSec review
-[ ] deployment plan arranged with Taster team (Taster hosted only)
+- [ ] application diagram created
+- [ ] hosting style chosen (Taster hosted or Third party)
+- [ ] hosting diagram created
+- [ ] presentation style chosen (integrated or standalone)
+- [ ] integrated/standalone pilot integration steps complete
+- [ ] custom analytics added (if required)
+- [ ] forms completed for InfoSec review
+- [ ] deployment plan arranged with Taster team (Taster hosted only)
 
 
 ## Technical documentations
