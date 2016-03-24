@@ -9,8 +9,9 @@ Your pilot application could be simple, it could be complex, or anywhere in-betw
 - If your pilot uses [Third party hosting](hosting.md#third-party-hosted) then **you** must provide this information. *Note this information could be provided in the application diagram*
 - If your pilot uses [Taster hosting](hosting.md#taster-hosted) then **the Taster team** provide this diagram. This helps confirm we've understood your pilot. 
 
-Whilst the creation of these diagrams is primarily done by you, the Taster team aims to office advice and collaborate with you to create an opportunity to refine the application design to address potential security, performance and scalability issues.
-Additionally, if the pilot uses Taster hosting this early collaboration helps us plan later deployment activities, and the potential to tailor the application design to enable simpler deployment into our hosting environment. 
+Whilst the creation of these diagrams is primarily done by you, the Taster team aims to office advice and collaborate with you to refine the application design to address potential security, performance and scalability issues.
+
+Additionally, if the pilot uses Taster hosting this early collaboration helps us plan later deployment activities, and the opportunity to tailor the application design to simplify deployment into our hosting environment. 
 
 *Note that these diagrams are also submitted as part of [InfoSec review](information-security.md) process the pilot will go through*
 
