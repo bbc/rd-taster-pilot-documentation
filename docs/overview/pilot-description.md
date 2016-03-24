@@ -4,6 +4,7 @@ Your pilot application could be simple, it could be complex, or anywhere in-betw
 
 #### An [application diagram](#what-should-the-application-diagram-explain)
 - This must be created by **you**
+
 #### A [hosting diagram](#what-should-the-hosting-diagram-explain) for the application
 - If your pilot uses [Third party hosting](hosting.md#third-party-hosted) then **you** must provide this information. *Note this information could be provided in the application diagram*
 - If your pilot uses [Taster hosting](hosting.md#taster-hosted) then **the Taster team** provide this diagram. This helps confirm we've understood your pilot. 
