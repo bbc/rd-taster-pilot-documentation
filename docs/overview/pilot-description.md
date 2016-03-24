@@ -1,6 +1,6 @@
 # Understanding your pilot application
 
-Your pilot application could be simple, it could be complex, or anywhere in-between.
+Your pilot application could be simple, complex, or anywhere in-between.
 To make sure we have a common understanding of what your pilot is and how it works two key diagrams are produced. 
 Whilst the creation of these diagrams is primarily done by you, the Taster team aims to office advice and collaborate with you to refine the application design to address potential security, performance and scalability issues.
 
