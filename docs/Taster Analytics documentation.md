@@ -89,7 +89,7 @@ The way this works is by setting 2 stats counters on pilot pages:
 
 Your Content Producer will supply you with a pilot ID that you can then use to integrate the badge correctly. Here is documentation to integrate the badge:
 
-[docs/integration/new-window.md](docs/integration/new-window.md)
+[docs/integration/new-window.md](integration/new-window.md)
 
 **It is very important to select the correct variable and pilot ID when implementing as this will have impact in terms of analytics and attribution.**
 <div id='custom'/>
