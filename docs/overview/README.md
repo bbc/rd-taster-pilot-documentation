@@ -132,21 +132,20 @@ More information for the steps highlighted in the [Overview](#overview). This do
                 <p><strong>Analytics</strong></p>
             </td>
             <td>
-                Summary *text*
+                Measure and interpret how the audience uses your application
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Advice on what to measure</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Implement desired custom analytics</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>[doc1](doc1.md)</li>
                 </ul>
             </td>
         </tr>
@@ -155,16 +154,15 @@ More information for the steps highlighted in the [Overview](#overview). This do
                 <p><strong>Device/Browser Requirements</strong></p>
             </td>
             <td>
-                Summary *text*
+                Who can use your pilot, and what browsers/devices are supported
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Provide a list of required browser capabilities</li>
                 </ul>
             </td>
             <td>
@@ -178,16 +176,15 @@ More information for the steps highlighted in the [Overview](#overview). This do
                 <p><strong>Security</strong></p>
             </td>
             <td>
-                Summary *text*
+                Ensure your audience is safe when using the pilot
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Forms completed for InfoSec review</li>
                 </ul>
             </td>
             <td>
@@ -201,7 +198,7 @@ More information for the steps highlighted in the [Overview](#overview). This do
                 <p><strong>Deployment and testing</strong></p>
             </td>
             <td>
-                Summary *text*
+                Transfer your pilot into its (live) hosting environment and make sure it works!
             </td>
             <td>
                 <ul>
@@ -224,7 +221,7 @@ More information for the steps highlighted in the [Overview](#overview). This do
                 <p><strong>Sign-off and publishing</strong></p>
             </td>
             <td>
-                Summary *text*
+                Launch the pilot in Taster and let the public use it!
             </td>
             <td>
                 <ul>
