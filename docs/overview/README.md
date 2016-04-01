@@ -48,196 +48,200 @@ More information for the steps highlighted in the [Overview](#overview). This do
 ## Tabular Overview
 
 <table>
-    <tr>
-        <th style="width:10%">Stage</th>
-        <th style="width:20%">Summary</th>
-        <th style="width:25%">Taster team actions</th>
-        <th style="width:25%">Pilot team actions</th>
-        <th style="width:20%">Documentation</th>
-    </tr>
-    <tr>
-        <td>
-            <p><strong>Scoping</strong></p>
-        </td>
-        <td>
-            Summary *text*
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>[doc1](doc1.md)</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p><strong>Presentation</strong></p>
-        </td>
-        <td>
-            Summary *text*
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>[doc1](doc1.md)</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p><strong>Hosting</strong></p>
-        </td>
-        <td>
-            Summary *text*
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>[doc1](doc1.md)</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p><strong>Analytics</strong></p>
-        </td>
-        <td>
-            Summary *text*
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>[doc1](doc1.md)</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p><strong>Device/Browser Requirements</strong></p>
-        </td>
-        <td>
-            Summary *text*
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>[doc1](doc1.md)</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p><strong>Security</strong></p>
-        </td>
-        <td>
-            Summary *text*
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>[doc1](doc1.md)</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p><strong>Deployment and testing</strong></p>
-        </td>
-        <td>
-            Summary *text*
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>[doc1](doc1.md)</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p><strong>Sign-off and publishing</strong></p>
-        </td>
-        <td>
-            Summary *text*
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Action 1</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>[doc1](doc1.md)</li>
-            </ul>
-        </td>
-    </tr>
+    
+    <thead>
+        <tr>
+            <th style="width:10%">Stage</th>
+            <th style="width:20%">Summary</th>
+            <th style="width:25%">Taster team actions</th>
+            <th style="width:25%">Pilot team actions</th>
+            <th style="width:20%">Documentation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p><strong>Scoping</strong></p>
+            </td>
+            <td>
+                Tell us about your pilot application and how it work and we'll tell you we've understood it
+            </td>
+            <td>
+                <ul>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Create an application diagram</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="pilot-description.md">Describe the pilot</a></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Presentation</strong></p>
+            </td>
+            <td>
+                Summary *text*
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>[doc1](doc1.md)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Hosting</strong></p>
+            </td>
+            <td>
+                Summary *text*
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>[doc1](doc1.md)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Analytics</strong></p>
+            </td>
+            <td>
+                Summary *text*
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>[doc1](doc1.md)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Device/Browser Requirements</strong></p>
+            </td>
+            <td>
+                Summary *text*
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>[doc1](doc1.md)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Security</strong></p>
+            </td>
+            <td>
+                Summary *text*
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>[doc1](doc1.md)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Deployment and testing</strong></p>
+            </td>
+            <td>
+                Summary *text*
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>[doc1](doc1.md)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><strong>Sign-off and publishing</strong></p>
+            </td>
+            <td>
+                Summary *text*
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Action 1</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>[doc1](doc1.md)</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
