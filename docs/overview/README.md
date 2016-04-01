@@ -49,10 +49,10 @@ More information for the steps highlighted in the [Overview](#overview). This do
 
 <table>
     <tr>
-        <th style="width:20%">Stage</th>
+        <th style="width:10%">Stage</th>
         <th style="width:20%">Summary</th>
-        <th style="width:20%">Taster team actions</th>
-        <th style="width:20%">Pilot team actions</th>
+        <th style="width:25%">Taster team actions</th>
+        <th style="width:25%">Pilot team actions</th>
         <th style="width:20%">Documentation</th>
     </tr>
     <tr>
