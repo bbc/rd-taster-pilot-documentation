@@ -101,6 +101,8 @@ More information for the steps highlighted in the [Overview](#overview). This do
             <td>
                 <ul>
                     <li><a href="pilot-presentation.md">Present the pilot in Taster</a></li>
+                    <li>Integration steps for standalone pilots</li>
+                    <li>Testing iframe integration for integrated pilots</li>
                 </ul>
             </td>
         </tr>
@@ -125,6 +127,7 @@ More information for the steps highlighted in the [Overview](#overview). This do
             <td>
                 <ul>
                     <li><a href="hosting.md">Hosting your pilot</a></li>
+                    <li>Our AWS hosting environment and advice for scalability</li>
                 </ul>
             </td>
         </tr>
@@ -147,6 +150,8 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
+                    <li>Oli's analytics page</li>
+                    <li>Echo analytics library</li>
                 </ul>
             </td>
         </tr>
@@ -168,7 +173,7 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
-                    <li>[doc1](doc1.md)</li>
+                    <li>Supported devices page</li>
                 </ul>
             </td>
         </tr>
@@ -190,7 +195,7 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
-                    <li>[doc1](doc1.md)</li>
+                    <li>Completion of Compliance Summary and Software Weakness Review forms</li>
                 </ul>
             </td>
         </tr>
@@ -215,7 +220,7 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
-                    <li>[doc1](doc1.md)</li>
+                    <li>Advice on deployment for Taster hosted pilots</li>
                 </ul>
             </td>
         </tr>
@@ -239,7 +244,9 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
-                    <li>[doc1](doc1.md)</li>
+                    <li>Publishing info</li>
+                    <li>Offsite badge behaviour</li>
+                    <li>Previewing pilot</li>
                 </ul>
             </td>
         </tr>
