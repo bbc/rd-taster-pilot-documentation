@@ -86,21 +86,21 @@ More information for the steps highlighted in the [Overview](#overview). This do
                 <p><strong>Presentation</strong></p>
             </td>
             <td>
-                Summary *text*
+                Choose the user journey for presenting the pilot in Taster
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Choose a presentation style</li>
+                    <li>Perform standalone integration steps (if required)</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>[doc1](doc1.md)</li>
+                    <li><a href="pilot-presentation.md">Present the pilot in Taster</a></li>
                 </ul>
             </td>
         </tr>
@@ -109,21 +109,21 @@ More information for the steps highlighted in the [Overview](#overview). This do
                 <p><strong>Hosting</strong></p>
             </td>
             <td>
-                Summary *text*
+                Understand and choose how the pilot application is hosted
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Create a hosting diagram (Taster hosted)</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Create a hosting diagram (Third Party hosted)</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>[doc1](doc1.md)</li>
+                    <li><a href="hosting.md">Hosting your pilot</a></li>
                 </ul>
             </td>
         </tr>
