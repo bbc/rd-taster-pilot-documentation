@@ -118,6 +118,7 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
+                    <li>Choose a hosting style (Taster hosted or Third Party hosted)</li>
                     <li>Create a hosting diagram (Third Party hosted)</li>
                 </ul>
             </td>
@@ -136,7 +137,7 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
-                    <li>Advice on what to measure</li>
+                    <li>Advise on what to measure</li>
                 </ul>
             </td>
             <td>
@@ -202,12 +203,14 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Create infrastructure and deploy application (Taster hosted only)</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Deployment plan arranged with Taster team (Taster hosted only)</li>
+                    <li>Deploy application (Third Party hosted only)</li>
+                    <li>Test application functions as expected</li>
                 </ul>
             </td>
             <td>
@@ -225,12 +228,13 @@ More information for the steps highlighted in the [Overview](#overview). This do
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Pilot enabled in Taster CMS</li>
+                    <li>Browser requirements added into Taster CMS</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Action 1</li>
+                    <li>Launch date proposed</li>
                 </ul>
             </td>
             <td>
