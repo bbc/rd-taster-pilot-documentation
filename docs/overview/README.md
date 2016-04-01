@@ -45,10 +45,11 @@ More information for the steps highlighted in the [Overview](#overview). This do
 - Testing iframe integration for integrated pilots
 - Completion of Compliance Summary and Software Weakness Review forms
 
-## Tabular Overview
+## Overview
+
+Creating and launching your pilot into Taster is a collaborative effort. You will go through the following stages, working with the Taster team throughout 
 
 <table>
-    
     <thead>
         <tr>
             <th style="width:10%">Stage</th>
