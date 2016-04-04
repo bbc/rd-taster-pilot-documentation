@@ -29,6 +29,9 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
+                    <li>Advise on InfoSec requirements</li>
+                    <li>Advise on hosting requirements</li>
+                    <li>Advise on presentation style</li>
                 </ul>
             </td>
             <td>
@@ -143,8 +146,10 @@ More detail about the concerns highlighted in the process are given below, inclu
                 </ul>
             </td>
             <td>
+                Complete (if applicable)
                 <ul>
-                    <li>Forms completed for InfoSec review</li>
+                    <li>Compliance Summary form</li>
+                    <li>Software Weakness Review form</li>
                 </ul>
             </td>
             <td>
