@@ -36,7 +36,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
             </td>
             <td>
                 <ul>
-                    <li><a href="pilot-description.md">Describe the pilot</a></li>
+                    <li><a href="overview/pilot-description.md">Describe the pilot</a></li>
                 </ul>
             </td>
         </tr>
@@ -57,7 +57,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
             </td>
             <td>
                 <ul>
-                    <li><a href="pilot-presentation.md">Present the pilot in Taster</a></li>
+                    <li><a href="overview/presentation.md">Present the pilot in Taster</a></li>
                     <li>Integration steps for standalone pilots</li>
                     <li>Testing iframe integration for integrated pilots</li>
                 </ul>
@@ -81,7 +81,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
             </td>
             <td>
                 <ul>
-                    <li><a href="hosting.md">Hosting your pilot</a></li>
+                    <li><a href="overview/hosting.md">Hosting your pilot</a></li>
                     <li>Our AWS hosting environment and advice for scalability</li>
                 </ul>
             </td>
@@ -147,7 +147,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
             </td>
             <td>
                 <ul>
-                    <li><a href="information-security.md">InfoSec overview</a></li>
+                    <li><a href="overview/information-security.md">InfoSec overview</a></li>
                     <li>Completion of Compliance Summary and Software Weakness Review forms</li>
                 </ul>
             </td>
@@ -171,7 +171,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
             </td>
             <td>
                 <ul>
-                    <li>Advice on deployment for Taster hosted pilots</li>
+                    <li><a href="overview/deployment.md">Deployment for Taster hosted pilots</a></li>
                 </ul>
             </td>
         </tr>
@@ -193,7 +193,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
             </td>
             <td>
                 <ul>
-                    <li>Publishing info</li>
+                    <li><a href="overview/publishing.md">Publishing your pilot</a></li>
                     <li>Offsite badge behaviour</li>
                     <li>Previewing pilot</li>
                 </ul>
