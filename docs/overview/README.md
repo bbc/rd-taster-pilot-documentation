@@ -186,6 +186,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
             </td>
             <td>
                 <ul>
+                    <li><a href="information-security.md">InfoSec overview</a></li>
                     <li>Completion of Compliance Summary and Software Weakness Review forms</li>
                 </ul>
             </td>
