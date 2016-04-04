@@ -15,7 +15,7 @@ More detail about the concerns highlighted in the process are given below, inclu
 <table>
     <thead>
         <tr>
-            <th>Stage</th>
+            <th></th>
             <th>Taster team actions</th>
             <th>Pilot team actions</th>
             <th>Documentation</th>
