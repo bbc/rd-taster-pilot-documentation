@@ -53,7 +53,6 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
     <thead>
         <tr>
             <th style="width:10%">Stage</th>
-            <th style="width:20%">Summary</th>
             <th style="width:25%">Taster team actions</th>
             <th style="width:25%">Pilot team actions</th>
             <th style="width:20%">Documentation</th>
@@ -63,9 +62,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
         <tr>
             <td>
                 <p><strong>Scoping</strong></p>
-            </td>
-            <td>
-                Tell us about your pilot application and how it work and we'll tell you we've understood it
+                <p>Tell us about your pilot application and how it work and we'll tell you we've understood it</p>
             </td>
             <td>
                 <ul>
@@ -85,9 +82,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
         <tr>
             <td>
                 <p><strong>Presentation</strong></p>
-            </td>
-            <td>
-                Choose the user journey for presenting the pilot in Taster
+                <p>Choose the user journey for presenting the pilot in Taster</p>
             </td>
             <td>
                 <ul>
@@ -110,9 +105,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
         <tr>
             <td>
                 <p><strong>Hosting</strong></p>
-            </td>
-            <td>
-                Understand and choose how the pilot application is hosted
+                <p>Understand and choose how the pilot application is hosted</p>
             </td>
             <td>
                 <ul>
@@ -135,9 +128,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
         <tr>
             <td>
                 <p><strong>Analytics</strong></p>
-            </td>
-            <td>
-                Measure and interpret how the audience uses your application
+                <p>Measure and interpret how the audience uses your application</p>
             </td>
             <td>
                 <ul>
@@ -159,9 +150,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
         <tr>
             <td>
                 <p><strong>Device/Browser Requirements</strong></p>
-            </td>
-            <td>
-                Who can use your pilot, and what browsers/devices are supported
+                <p>Who can use your pilot, and what browsers/devices are supported</p>
             </td>
             <td>
                 <ul>
@@ -181,9 +170,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
         <tr>
             <td>
                 <p><strong>Security</strong></p>
-            </td>
-            <td>
-                Ensure your audience is safe when using the pilot
+                <p>Ensure your audience is safe when using the pilot</p>
             </td>
             <td>
                 <ul>
@@ -206,9 +193,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
         <tr>
             <td>
                 <p><strong>Deployment and testing</strong></p>
-            </td>
-            <td>
-                Transfer your pilot into its (live) hosting environment and make sure it works!
+                <p>Transfer your pilot into its (live) hosting environment and make sure it works!</p>
             </td>
             <td>
                 <ul>
@@ -231,9 +216,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
         <tr>
             <td>
                 <p><strong>Sign-off and publishing</strong></p>
-            </td>
-            <td>
-                Launch the pilot in Taster and let the public use it!
+                <p>Launch the pilot in Taster and let the public use it!</p>
             </td>
             <td>
                 <ul>
