@@ -1,14 +1,16 @@
 # Taster Pilots Documentation
 
-## Welcome
-
 Pilot applications aim to test and validate new ideas through real audience feedback. [BBC Taster](http://www.bbc.co.uk/taster) is a platform that allows the presentation of these pilots to an audience and provides a framework for gathering user feedback.
 
 Pilots applications are typically (but not always) web applications. This documentation gives an overview of the steps you (the pilot author) and the BBC Taster team will go through together, concentrating on the development and deployment activities, to build, deploy and present the pilot in Taster.
 
-## Overview
+## On-boarding Process
 
 Creating and launching your pilot into Taster is a collaborative effort. You will go through the following stages, working with the Taster team throughout 
+
+<img src="./overview/images/pilot-process.png" alt="Taster hosting overview" width="650" >
+
+More detail about the concerns highlighted in the process are given below, including the **actions that must be completed** to satisfy them. 
 
 <table>
     <thead>
