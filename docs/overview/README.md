@@ -52,10 +52,10 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
 <table>
     <thead>
         <tr>
-            <th style="width:10%">Stage</th>
-            <th style="width:25%">Taster team actions</th>
-            <th style="width:25%">Pilot team actions</th>
-            <th style="width:20%">Documentation</th>
+            <th>Stage</th>
+            <th>Taster team actions</th>
+            <th>Pilot team actions</th>
+            <th>Documentation</th>
         </tr>
     </thead>
     <tbody>
