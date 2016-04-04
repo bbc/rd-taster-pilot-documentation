@@ -189,6 +189,7 @@ Creating and launching your pilot into Taster is a collaborative effort. You wil
                 <ul>
                     <li>Explain InfoSec process</li>
                     <li>Provide relevant examples of InfoSec forms</li>
+                    <li>Advise on what InfoSec sign off might be required</li>
                 </ul>
             </td>
             <td>
