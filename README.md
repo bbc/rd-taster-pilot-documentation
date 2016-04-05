@@ -64,7 +64,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li><a href="overview/presentation.md">Pilot presentation overview</a></li>
-                    <li><a href="technical/standalon-pilot-integration-steps.md">Standalone Pilot integration steps</a></li>
+                    <li><a href="technical/standalone-pilot-integration-steps.md">Standalone Pilot integration steps</a></li>
                     <li>Testing iframe integration for integrated pilots</li>
                 </ul>
             </td>
