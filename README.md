@@ -87,7 +87,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li><a href="overview/hosting.md">Hosting your pilot</a></li>
-                    <li>Our AWS hosting environment and advice for scalability</li>
+                    <li><a href="technical/AWS-info.md">Taster hosting (AWS) advice</a></li>
                 </ul>
             </td>
         </tr>
@@ -172,6 +172,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li>Deployment plan arranged with Taster team (Taster hosted only)</li>
+                    <li>Deployment instructions created (Taster hosted only)</li>
                     <li>Deploy application (Third Party hosted only)</li>
                     <li>Test application functions as expected</li>
                 </ul>
