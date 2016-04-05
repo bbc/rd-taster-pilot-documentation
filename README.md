@@ -1,4 +1,4 @@
-# Taster Pilots Documentation
+# Taster pilots technical integration documentation
 
 Pilot applications aim to test and validate new ideas through real audience feedback. [BBC Taster](http://www.bbc.co.uk/taster) is a platform that allows the presentation of these pilots to an audience and provides a framework for gathering user feedback.
 
