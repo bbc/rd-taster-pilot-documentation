@@ -28,10 +28,11 @@ More detail about the concerns highlighted in the process are given below, inclu
                 <p>Tell us about your pilot application and how it work and we'll tell you we've understood it</p>
             </td>
             <td>
+                Advise on:
                 <ul>
-                    <li>Advise on InfoSec requirements</li>
-                    <li>Advise on hosting requirements</li>
-                    <li>Advise on presentation style</li>
+                    <li>InfoSec requirements</li>
+                    <li>Hosting requirements</li>
+                    <li>Presentation style</li>
                 </ul>
             </td>
             <td>
