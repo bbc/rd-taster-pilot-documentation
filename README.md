@@ -162,31 +162,34 @@ More detail about the concerns highlighted in the process are given below, inclu
         <tr>
             <td>
                 <p><strong>Deployment and testing</strong></p>
-                <p>Transfer your pilot into its (live) hosting environment and make sure it works!</p>
+                <p>Transfer your pilot into its (live) hosting environment and make sure it works</p>
             </td>
             <td>
+                Taster hosted:
                 <ul>
-                    <li>Create infrastructure and deploy application (Taster hosted only)</li>
+                    <li>Create infrastructure and deploy application</li>
+                    <li>Smoke check application availability</li>
                 </ul>
             </td>
             <td>
-                Testing:
-                <ul>
-                    <li>Test application functions as expected</li>
-                </ul>
-                Deployment (Third Party hosted):
-                <ul>
-                    <li>Deploy application</li>
-                </ul>
-                Deployment (Taster hosted):
+                Taster hosted:
                 <ul>
                     <li>Deployment plan arranged with Taster team</li>
                     <li>Step-by-step deployment instructions/scripts created</li>
+                    <li>Test application functionality</li>
+                </ul>
+                Third Party hosted:
+                <ul>
+                    <li>Deploy application</li>
+                    <li>Test application functionality</li>
+                    <li>Confirm application availability</li>
                 </ul>
             </td>
             <td>
                 <ul>
                     <li><a href="overview/deployment.md">Deployment for Taster hosted pilots</a></li>
+                    <li>iFrame harness?</li>
+                    <li>preview in Taster?</li>
                 </ul>
             </td>
         </tr>
