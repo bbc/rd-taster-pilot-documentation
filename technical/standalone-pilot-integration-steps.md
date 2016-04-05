@@ -1,9 +1,9 @@
 # Integration steps for standalone pilots
 
 If your pilot is being presented in its own page, it **must** include the following
-- [Taster Badge](#Taster_badge)
-- [Legal Links](#legal_links)
-- [Cookie Warning](#cookie_warning)
+- [Taster Badge](#taster-badge)
+- [Legal Links](#legal-links)
+- [Cookie Warning](#cookie-warning)
 
 ## Taster badge
 
