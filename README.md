@@ -170,11 +170,18 @@ More detail about the concerns highlighted in the process are given below, inclu
                 </ul>
             </td>
             <td>
+                Testing:
                 <ul>
-                    <li>Deployment plan arranged with Taster team (Taster hosted only)</li>
-                    <li>Deployment instructions created (Taster hosted only)</li>
-                    <li>Deploy application (Third Party hosted only)</li>
                     <li>Test application functions as expected</li>
+                </ul>
+                Deployment (Third Party hosted):
+                <ul>
+                    <li>Deploy application</li>
+                </ul>
+                Deployment (Taster hosted):
+                <ul>
+                    <li>Deployment plan arranged with Taster team</li>
+                    <li>Step-by-step deployment instructions/scripts created</li>
                 </ul>
             </td>
             <td>
