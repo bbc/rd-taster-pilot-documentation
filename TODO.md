@@ -60,4 +60,7 @@
   - replaced by main README
   - check everything currently in this doc is covered elsewhere
 - /docs/integration/iframe.md
+  - separate into test harness doc and functionality doc (deep linking etc)
+  - update links
 - /docs/integration/new-window.md
+  - collate quick-rate badge here with "standalone pilot integration steps"
