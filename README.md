@@ -213,7 +213,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li><a href="overview/publishing.md">Publishing your pilot</a></li>
-                    <li>Offsite badge behaviour</li>
+                    <li>Quick-rate badge behaviour</li>
                     <li>Previewing pilot</li>
                 </ul>
             </td>
