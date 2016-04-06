@@ -57,8 +57,8 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li>Choose a presentation style</li>
-                    <li>Perform standalone integration steps (if required)</li>
+                    <li>Choose presentation style</li>
+                    <li>Complete standalone integration steps (if required)</li>
                 </ul>
             </td>
             <td>
@@ -75,13 +75,17 @@ More detail about the concerns highlighted in the process are given below, inclu
                 <p>Understand and choose how the pilot application is hosted</p>
             </td>
             <td>
+                Taster hosted:
                 <ul>
-                    <li>Create a hosting diagram (Taster hosted)</li>
+                    <li>Create a hosting diagram</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Choose a hosting style (Taster hosted or Third Party hosted)</li>
+                    <li>Choose a hosting style</li>
+                </ul>
+                Third party hosted:
+                <ul>
                     <li>Create a hosting diagram (Third Party hosted)</li>
                 </ul>
             </td>
@@ -125,7 +129,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li>Provide a list of required browser capabilities</li>
+                    <li>Provide list of required browser capabilities</li>
                 </ul>
             </td>
             <td>
@@ -143,7 +147,6 @@ More detail about the concerns highlighted in the process are given below, inclu
                 <ul>
                     <li>Explain InfoSec process</li>
                     <li>Provide relevant examples of InfoSec forms</li>
-                    <li>Advise on what InfoSec sign off might be required</li>
                 </ul>
             </td>
             <td>
@@ -156,7 +159,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li><a href="overview/information-security.md">InfoSec overview</a></li>
-                    <li>Completion of Compliance Summary and Software Weakness Review forms</li>
                 </ul>
             </td>
         </tr>
@@ -168,15 +170,15 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 Taster hosted:
                 <ul>
-                    <li>Create infrastructure and deploy application</li>
+                    <li>Deploy application</li>
                     <li>Smoke check application availability</li>
                 </ul>
             </td>
             <td>
                 Taster hosted:
                 <ul>
-                    <li>Deployment plan arranged with Taster team</li>
-                    <li>Step-by-step deployment instructions/scripts created</li>
+                    <li>Arrange deployment plan with Taster team</li>
+                    <li>Create step-by-step deployment instructions/scripts</li>
                     <li>Test application functionality</li>
                 </ul>
                 Third Party hosted:
@@ -201,8 +203,8 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
+                    <li>Pilot details added to Taster CMS</li>
                     <li>Pilot enabled in Taster CMS</li>
-                    <li>Browser requirements added into Taster CMS</li>
                 </ul>
             </td>
             <td>
@@ -214,7 +216,7 @@ More detail about the concerns highlighted in the process are given below, inclu
                 <ul>
                     <li><a href="overview/publishing.md">Publishing your pilot</a></li>
                     <li>Quick-rate badge behaviour</li>
-                    <li>Previewing pilot</li>
+                    <li>Previewing a pilot</li>
                 </ul>
             </td>
         </tr>
