@@ -65,7 +65,7 @@ More detail about the concerns highlighted in the process are given below, inclu
                 <ul>
                     <li><a href="overview/presentation.md">Pilot presentation overview</a></li>
                     <li><a href="technical/standalone-pilot-integration-steps.md">Standalone Pilot integration steps</a></li>
-                    <li>Testing iframe integration for integrated pilots</li>
+                    <li><a href="docs/integration/iframe.md">Integrated pilot test harness</a></li>
                 </ul>
             </td>
         </tr>
@@ -113,7 +113,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li>Oli's analytics page</li>
+                    <li><a href="docs/Taster Analytics documentation.md">Analytics overview</a></li>
                     <li>Echo analytics library</li>
                 </ul>
             </td>
@@ -134,7 +134,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li>Supported devices page</li>
+                    <li><a href="/docs/supported-devices.md">Supported devices</a></li>
                 </ul>
             </td>
         </tr>
@@ -191,7 +191,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li><a href="overview/deployment.md">Deployment for Taster hosted pilots</a></li>
-                    <li>iFrame harness?</li>
+                    <li><a href="docs/integration/iframe.md">Integrated pilot test harness</a></li>
                     <li>preview in Taster?</li>
                 </ul>
             </td>
@@ -222,4 +222,3 @@ More detail about the concerns highlighted in the process are given below, inclu
         </tr>
     </tbody>
 </table>
-
