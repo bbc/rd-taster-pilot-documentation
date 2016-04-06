@@ -9,6 +9,4 @@ The deployment of your application is dependent on how it is [hosted](hosting)
 
 If the pilot is [third party hosted](hosting.md#third-party-hosted) then you're on your own.
 
-TODO (maybe we can do DNS record)?
-
 If your pilot is [Taster hosted](hosting.md#taster-hosted) then read on...
