@@ -92,6 +92,7 @@ Your Content Producer will supply you with a pilot ID that you can then use to i
 [docs/integration/new-window.md](integration/new-window.md)
 
 **It is very important to select the correct variable and pilot ID when implementing as this will have impact in terms of analytics and attribution.**
+**If you are running your pilot on a BBC product page (Eg. Sport), please note that the correct URL variant must be used in your implementation to ensure there is no conflict on existing countername implementation. The implication of this will be that pageviews are not counted via the offsite badge, and will not appear in the Taster dashboard. You will need to count pageviews via the product's countername.**
 <div id='custom'/>
 ###CUSTOM BEHAVIOURAL ANALYTICS:
 
