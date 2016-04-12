@@ -33,10 +33,13 @@
 ## What to do with existing pages:
 - /overview/analytics-documentation.md
   - separate 'why analytics' and implementation details into distinct documents
+
 - /docs/interactive-video.md
   - do we still need this?
+
 - /docs/pilot-kickoff-pack.md
   - written by Becky. Is it appropriate for this documentation? Discuss
+
 - /docs/pilot-technical-pack.md
   - merge "Stats (Analytics)" section into analytics docs
   - legal links moved into "standalone pilot integration steps"
@@ -44,21 +47,25 @@
   - device capability replaced by "supported devices"
   - Taster integration replaced by "overview/presentation.md"
   - check everything currently in this doc is covered elsewhere
-  - Information Security moved into "overview/information-security.md"
   - MOVE technical review info **somewhere**
   - DELETE when everything moved
+
 - /docs/pilot-testing.md
   - move into overview
   - make our Taster testing responsibilities clear 
+
 - /docs/supported-devices.md
   - move into /overview
   - update links
   - add info about 'in pilot browser detection'
+
 - /docs/taster-tech-on-boarding.md
   - replaced by main README
   - check everything currently in this doc is covered elsewhere
+
 - /docs/integration/iframe.md
   - separate into test harness doc and functionality doc (deep linking etc)
   - update links
+
 - /docs/integration/new-window.md
   - collate quick-rate badge here with "standalone pilot integration steps"

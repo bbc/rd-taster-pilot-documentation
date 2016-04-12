@@ -97,10 +97,3 @@ read more about the different approaches and integration hooks.
 
 All pilots must be reviewed by one of the BBC's technical team prior to appearing in Taster. The important
 factors to consider are related to scalability and security.
- 
-## Information Security
-Many pilots will require checking by the BBC's Information Security team.  This involves filling in two forms, 
-one describes how the application works and the steps taken to secure it, the other is a checklist of the top 25 
-security issues.  If this is needed the developer will be given access to the BBC's systems to allow
-them to complete these forms and discuss them with the InfoSec team.
-

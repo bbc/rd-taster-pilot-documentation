@@ -11,7 +11,7 @@ We work in partnership with the BBC's Information Security team (InfoSec) to per
 
 Whilst some applications can be approved as secure by the Taster team, many pilots will require a full evaluation by completing two forms:
  - **Compliance Summary** - a description of how the application works and the steps taken to secure it
- - **Software Weakness Review** - a checklist of the OWASP top 25 security issues, and how your application considers them
+ - **Software Weakness Review** - a checklist of the [top 25 software weaknesses](http://cwe.mitre.org/top25/), and how your application considers them
  
 Note the [application and hosting diagrams](pilot-description.md) are critical here as they allow us to:
 - make a call on InfoSecs behalf on whether a formal review is required
