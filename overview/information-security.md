@@ -18,8 +18,8 @@ Additionally, if your pilot uses third party hosting, you may be required to a c
 
 *The Taster team can advise whether your chosen third-party hosting solution requires a H&H form on a case-by-case basis. Some solutions may be exempt if we have used that solution on a previous pilot*
 
-Note the [application and hosting diagrams](pilot-description.md) are critical here as they allow us to:
+Note the [application diagram](pilot-description.md#application-diagram) and [hosting diagram](pilot-description.md#hosting-diagram) are critical here as they allow us to:
 - make a call on InfoSecs behalf on whether a formal review is required
-- be included in the **Compliane Summary** (for pilots needing a formal review) to help InfoSec verify that your application is secure and any user data collected/used by the pilot adheres to BBC policy.
+- be included in the **Compliance Summary** (for pilots needing a formal review) to help InfoSec verify that your application is secure and any user data collected/used by the pilot adheres to BBC policy.
  
 If your pilot requires these forms to be completed then you will be given access to the BBC's systems to complete them and discuss them with the InfoSec team.
