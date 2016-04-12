@@ -10,6 +10,7 @@
 - detail why
 - detail each component function inputs/outputs
 - overview of forms to fill in
+- overview of process (fill in forms, submit for review, answer raised concerns)
 
 ### overview/publishing.md
 - add note about previewing in Taster (?preview=true)
@@ -51,7 +52,9 @@
 
 - /docs/taster-tech-on-boarding.md
   - replaced by main README
-  - check everything currently in this doc is covered elsewhere
+  - advice on Facebook/Twitter login
+  - make explicit custom analytics need H&H (or, in case of GA, are not allowed)
+  - DELETE when above two points covered
 
 - /docs/integration/iframe.md
   - separate into test harness doc and functionality doc (deep linking etc)

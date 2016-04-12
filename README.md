@@ -85,6 +85,7 @@ More detail about the concerns highlighted in the process are given below, inclu
                 Third party hosted:
                 <ul>
                     <li>Create a hosting diagram</li>
+                    <li>Complete Holding & Hosting form (if needed)</li>
                 </ul>
             </td>
             <td>
@@ -102,11 +103,13 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li>Advise on what to measure</li>
+                    <li>Provide a <strong>pilot ID</strong> to use in analytics calls</li>
                 </ul>
             </td>
             <td>
                 <ul>
                     <li>Implement desired custom analytics</li>
+                    <li>Request access to analytics dashboard to view resultant data</li>
                 </ul>
             </td>
             <td>

@@ -19,3 +19,7 @@ A standalone pilot is presented in its own page - the "Try it" button opens the 
 ![Integrated overview](./images/presentation-standalone.png?raw=true)
 
 There are additional integration steps required to prepare a standalone pilot, as detailed [here](../integration/new-window.md)
+
+## Accessibility
+
+However you choose to present your pilot, you must ensure it adheres to [BBC accessibility standards](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/) where possible.
