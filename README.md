@@ -193,7 +193,6 @@ More detail about the concerns highlighted in the process are given below, inclu
                 <ul>
                     <li><a href="overview/deployment.md">Deployment for Taster hosted pilots</a></li>
                     <li><a href="docs/integration/iframe.md">Integrated pilot test harness</a></li>
-                    <li>preview in Taster?</li>
                 </ul>
             </td>
         </tr>
