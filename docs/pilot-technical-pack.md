@@ -81,18 +81,6 @@ Users aren't always able to use browsers and devices that support the latest fea
 
 More information can be found on our [supported devices page](supported-devices.md).
 
-## Taster Integration
-
-There are two main approaches to integrating into Taster:
-
-* [IFrame](integration/iframe.md)
-* [New Window](integration/new-window.md)
-
-You should talk to the Taster team to understand which is best for your application. As a general
-rule of thumb, things like interactive video, standalone games, etc. work best in an IFrame. Standalone
-websites and external things like Twitter bots work best in a new window. Use the links above to
-read more about the different approaches and integration hooks.
-
 ## Technical review
 
 All pilots must be reviewed by one of the BBC's technical team prior to appearing in Taster. The important
