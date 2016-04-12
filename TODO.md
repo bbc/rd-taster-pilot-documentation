@@ -41,9 +41,6 @@
   - written by Becky. Is it appropriate for this documentation? Discuss
 
 - /docs/pilot-technical-pack.md
-  - merge "Stats (Analytics)" section into analytics docs
-  - legal links moved into "standalone pilot integration steps"
-  - cookie warning moved into "standalone pilot integration steps"
   - check everything currently in this doc is covered elsewhere
   - MOVE technical review info **somewhere**
   - DELETE when everything moved
