@@ -5,12 +5,12 @@ If your pilot is being presented in its own page, it **must** include the follow
 - [Legal Links](#legal-links)
 - [Cookie Warning](#cookie-warning)
 
-## Taster badge
+## Taster quick-rate badge
 
-Purpose is to:
- - brands as Taster
- - lets audience know pilot application, and may break
- - provides [standard analytics](fix-this-link)
+The Taster quick-rate adds some key functionality to your pilot  
+ - brands the pilot as a BBC Taster project
+ - manages audience expectation by advertising that the pilot may break
+ - provides [standard analytics](../overview/analytics-documentation.md#Standard-Analytics) for the pilot
 
 ## Legal Links
 
@@ -36,4 +36,4 @@ This needs to be prominent on the users first visit to the site but can then dis
 
 As part of your technical review we will be looking at cookie usage to check whether a more specific warning is required.
 
-*Note that as the Taster badge uses a cookie, you **must** include a cookie warning in the pilot, if your application doesn't use cookies itself* 
+*Note that as the Taster badge uses a cookie, you* **must** *include a cookie warning in the pilot, even if your application doesn't use cookies itself* 

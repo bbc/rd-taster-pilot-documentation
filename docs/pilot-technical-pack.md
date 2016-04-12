@@ -53,28 +53,6 @@ https://chrome.google.com/webstore/detail/dax-istats-log/jgkkagdpkhpdpddcegfcahb
  
 The pilot ID as used in the counter name should match the ID you are assigned for Taster, but with the dashes converted to underscores. When used in the pilot_name label, you should make sure it matches the Taster name exactly. For example, the pilot 'My Test Pilot' may be assigned the Taster ID 'my-test-pilot', so you should set the label `pilot_name=my-test-pilot`, and use the counter name of `taster.pilot.my_test_pilot.internal.something.page`.
 
-## Legal Links
-
-If the pilot is going to presented outside the Taster frame you will need to add links (usually at the bottom) to BBC 
-T&C documents. Something similar to the html fragment below.
-
-	<a href="http://www.bbc.co.uk/privacy/information/policy/"target="_blank">Privacy policy</a> | 
-	<a href="http://www.bbc.co.uk/terms" target="_blank">Terms and conditions</a>
- 
-## Cookie Warning
-
-If your site makes any use of cookies (including using the stats package above) you will have to add a cookie warning.
-This needs to be prominent on the users first visit to the site but can then disappear.
-
-	<div id="cookie-warning">
-	<h2>Cookies on this BBC website</h2>
-	<p>We use cookies to ensure you get the best website experience. If you continue without
-	 changing your settings, we'll assume that you are happy to receive all cookies on this website. 
-	 However you can change your cookie settings at any time.</p>
-	<a href="http://policy.pilots.bbcconnectedstudio.co.uk/cookies.html" target="_blank">Find out more</a></div>
-
-As part of your technical review we will be looking at cookie usage to check whether a more specific warning is required.
-
 ## Technical review
 
 All pilots must be reviewed by one of the BBC's technical team prior to appearing in Taster. The important
