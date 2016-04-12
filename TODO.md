@@ -44,7 +44,6 @@
   - merge "Stats (Analytics)" section into analytics docs
   - legal links moved into "standalone pilot integration steps"
   - cookie warning moved into "standalone pilot integration steps"
-  - device capability replaced by "supported devices"
   - check everything currently in this doc is covered elsewhere
   - MOVE technical review info **somewhere**
   - DELETE when everything moved

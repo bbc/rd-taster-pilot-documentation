@@ -75,12 +75,6 @@ This needs to be prominent on the users first visit to the site but can then dis
 
 As part of your technical review we will be looking at cookie usage to check whether a more specific warning is required.
 
-## Device Capabilities
-
-Users aren't always able to use browsers and devices that support the latest features that pilots rely on. To prevent them from receiving a broken experience, the Taster platform performs [feature detection](https://modernizr.com/docs/#what-is-feature-detection) and if their browser does not support the required features we display a message that suggests they try with an alternative browser.
-
-More information can be found on our [supported devices page](supported-devices.md).
-
 ## Technical review
 
 All pilots must be reviewed by one of the BBC's technical team prior to appearing in Taster. The important
