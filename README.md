@@ -50,6 +50,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Presentation</strong></p>
                 <p>Choose the user journey for presenting the pilot in Taster</p>
+                <a href="overview/presentation.md">Read more...</a>
             </td>
             <td>
                 <ul>
@@ -63,7 +64,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li><a href="overview/presentation.md">Pilot presentation overview</a></li>
                     <li><a href="technical/standalone-pilot-integration-steps.md">Standalone Pilot integration steps</a></li>
                     <li><a href="docs/integration/iframe.md">Integrated pilot test harness</a></li>
                 </ul>
