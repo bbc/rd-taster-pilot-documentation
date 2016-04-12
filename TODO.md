@@ -21,13 +21,14 @@
   - quick-rate badge for standalone pilots code snippet
   - quick-rate badge for BBC pages code snippet
 
-## Details to add
+## Details to add/change
 
 - scaling advice (separate DB, etc)
 - adding echo (technical doc)
 - previewing pilot in live test (?preview=true)
 - quick rate badge behaviour for unpublished pilots
 - SMP documentation/integration
+- TX/proposed launch date at start of process
 
 ## What to do with existing pages:
 - /docs/Taster Analytics documentation.md
