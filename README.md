@@ -72,7 +72,7 @@ More detail about the concerns highlighted in the process are given below, inclu
         <tr>
             <td>
                 <p><strong>Hosting</strong></p>
-                <p>Understand and choose how the pilot application is hosted</p>
+                <p>Understand and choose how your pilot application is hosted</p>
             </td>
             <td>
                 Taster hosted:
@@ -81,9 +81,6 @@ More detail about the concerns highlighted in the process are given below, inclu
                 </ul>
             </td>
             <td>
-                <ul>
-                    <li>Choose a hosting style</li>
-                </ul>
                 Third party hosted:
                 <ul>
                     <li>Create a hosting diagram (Third Party hosted)</li>
