@@ -2,6 +2,9 @@
 
 ## New documents that need adding to
 
+### overview/analytics-documentation.md
+  - separate 'why analytics' and implementation details into distinct documents
+
 ### overview/deployment.md
 - can do DNS record for Third Party hosted?
 - detail handover plan, scripts/instructions etc
@@ -36,9 +39,6 @@
 - advice on Facebook/Twitter login
 
 ## What to do with existing pages:
-- /overview/analytics-documentation.md
-  - separate 'why analytics' and implementation details into distinct documents
-
 - /docs/interactive-video.md
   - do we still need this?
 
