@@ -145,6 +145,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
+                    <li>Advise on application design to address security concerns</li>
                     <li>Explain InfoSec process</li>
                     <li>Provide relevant examples of InfoSec forms</li>
                 </ul>
