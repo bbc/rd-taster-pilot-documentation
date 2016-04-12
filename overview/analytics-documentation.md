@@ -205,3 +205,12 @@ Built into the BBC's Digital Analytix package are some pre-built reports that lo
 It will capture the number of browsers overall who engage with your pilot, and then show you who visit different parts of your pilot, and secondly who interacts with actions in the pilot.
 
 So, all you need to do is wait for the email.
+
+## Alternative analytics systems?
+
+In theory you could use a custom system to record user actions/analytics, however, any system storing user data must
+have BBC legal and Information Security Sign off, by the completion of a [H&H form](information-security.md#the-review-process).
+
+Google Analytics, for example, **cannot be used** as it stores user data ourside the UK.
+
+We recommented using the provided BBC Echo library, as this is already signed off for use 

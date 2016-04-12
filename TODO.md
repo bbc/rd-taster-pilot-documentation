@@ -53,7 +53,6 @@
 - /docs/taster-tech-on-boarding.md
   - replaced by main README
   - advice on Facebook/Twitter login
-  - make explicit custom analytics need H&H (or, in case of GA, are not allowed)
   - DELETE when above two points covered
 
 - /docs/integration/iframe.md
