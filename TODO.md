@@ -27,8 +27,7 @@
 - adding echo (technical doc)
 - previewing pilot in live test (?preview=true)
 - quick rate badge behaviour for unpublished pilots
-- SMP documenation/integration
-- supported devices page (rather than 'unsupported devices')
+- SMP documentation/integration
 
 ## What to do with existing pages:
 - /docs/Taster Analytics documentation.md
