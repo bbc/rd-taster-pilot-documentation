@@ -18,7 +18,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <th></th>
             <th>Taster team actions</th>
             <th>Pilot team actions</th>
-            <th>Documentation</th>
+            <th>Additional documentation</th>
         </tr>
     </thead>
     <tbody>
@@ -26,6 +26,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Scoping</strong></p>
                 <p>Tell us how your pilot application works and we'll confirm we've understood</p>
+                <a href="overview/pilot-description.md">Read more...</a>
             </td>
             <td>
                 Advise on:
@@ -42,7 +43,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li><a href="overview/pilot-description.md">Describe the pilot</a></li>
                 </ul>
             </td>
         </tr>
@@ -73,6 +73,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Hosting</strong></p>
                 <p>Understand and choose how your pilot application is hosted</p>
+                <a href="overview/hosting.md">Read more...</a>
             </td>
             <td>
                 Taster hosted:
@@ -88,7 +89,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li><a href="overview/hosting.md">Hosting your pilot</a></li>
                     <li><a href="technical/AWS-info.md">Taster hosting (AWS) advice</a></li>
                 </ul>
             </td>
@@ -97,6 +97,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Analytics</strong></p>
                 <p>Measure and interpret how the audience uses your application</p>
+                <a href="docs/Taster Analytics documentation.md">Read more...</a>
             </td>
             <td>
                 <ul>
@@ -110,7 +111,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li><a href="docs/Taster Analytics documentation.md">Analytics overview</a></li>
                     <li>Echo analytics library</li>
                 </ul>
             </td>
@@ -119,6 +119,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Device/Browser Requirements</strong></p>
                 <p>Who can use your pilot, and what browsers/devices are supported</p>
+                <a href="/docs/supported-devices.md">Read more...</a>
             </td>
             <td>
                 <ul>
@@ -131,7 +132,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li><a href="/docs/supported-devices.md">Supported devices</a></li>
                 </ul>
             </td>
         </tr>
@@ -139,6 +139,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Security</strong></p>
                 <p>Ensure your audience is safe when using the pilot</p>
+                <a href="overview/information-security.md">Read more...</a>
             </td>
             <td>
                 <ul>
@@ -156,7 +157,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li><a href="overview/information-security.md">InfoSec overview</a></li>
                 </ul>
             </td>
         </tr>
@@ -197,6 +197,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Sign-off and publishing</strong></p>
                 <p>Launch the pilot in Taster and let the public use it!</p>
+                <a href="overview/publishing.md">Read more...</a>
             </td>
             <td>
                 <ul>
@@ -211,7 +212,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li><a href="overview/publishing.md">Publishing your pilot</a></li>
                     <li>Quick-rate badge behaviour</li>
                     <li>Previewing a pilot</li>
                 </ul>
