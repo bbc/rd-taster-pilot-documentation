@@ -30,6 +30,7 @@
 - quick rate badge behaviour for unpublished pilots
 - SMP documentation/integration
 - TX/proposed launch date at start of process
+- advice on Facebook/Twitter login
 
 ## What to do with existing pages:
 - /overview/analytics-documentation.md
@@ -49,11 +50,6 @@
   - move into /overview
   - update links
   - add info about 'in pilot browser detection'
-
-- /docs/taster-tech-on-boarding.md
-  - replaced by main README
-  - advice on Facebook/Twitter login
-  - DELETE when above two points covered
 
 - /docs/integration/iframe.md
   - separate into test harness doc and functionality doc (deep linking etc)

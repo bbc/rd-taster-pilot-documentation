@@ -14,6 +14,3 @@ Supporting documentation for the kickoff process for a Connected Studio pilot pr
 
 ## pilot-testing.md
 Overview of pilot testing
-
-## taster-tech-on-boarding.md
-Overview of the on-boarding process for launching a pilot into Taster
