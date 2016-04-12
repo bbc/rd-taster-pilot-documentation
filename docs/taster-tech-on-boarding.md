@@ -52,7 +52,7 @@
 <li> Help you understand the documentation on Standard and Custom behavioral provided in the left hand side column if needed</li>
 <li>Provide you with pilot ID, so you can implement your standard analytics and custom beahvioral</li>
 <li>Provide you with a dashboard login.</li></ul></td><td><ul>
-<li><a href="https://github.com/BBCConnectedStudio/documentation/blob/master/docs/Taster%20Analytics%20documentation.md">Piot teams must read the documenation on Standard and Custom behavioral analytics HERE</a></li>
+<li><a href="https://github.com/BBCConnectedStudio/documentation/blob/master/overview/analytics-documentation.md">Piot teams must read the documenation on Standard and Custom behavioral analytics HERE</a></li>
 <li>Request dashboard login from Taster team</li>
 </ul>
 </td></tr><tr><th><strong>Testing, compatibility, </strong><strong>accessibility</strong></th><td><p>It's important that your pilot works across as many devices as the technology allows, and adheres to <a href="http://www.bbc.co.uk/guidelines/futuremedia/accessibility/" rel="nofollow">BBC accessibility standards</a> where possible.</p><p>It's also your responsibility to make sure that there are no snags in the user journey that may hard the user experience.</p></td><td><ul><li>As we have a very small technical team, we're unable to carry out testing. We can, however, advise teams in how they might go about it.</li></ul></td><td><ul>

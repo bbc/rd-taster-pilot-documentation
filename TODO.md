@@ -31,10 +31,8 @@
 - TX/proposed launch date at start of process
 
 ## What to do with existing pages:
-- /docs/Taster Analytics documentation.md
-  - move into /overview
+- /overview/analytics-documentation.md
   - separate 'why analytics' and implementation details into distinct documents
-  - update link(s) in main README.md
 - /docs/interactive-video.md
   - do we still need this?
 - /docs/pilot-kickoff-pack.md

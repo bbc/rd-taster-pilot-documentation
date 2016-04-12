@@ -97,7 +97,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Analytics</strong></p>
                 <p>Measure and interpret how the audience uses your application</p>
-                <a href="docs/Taster Analytics documentation.md">Read more...</a>
+                <a href="overview/analytics-documentation.md">Read more...</a>
             </td>
             <td>
                 <ul>
