@@ -15,6 +15,9 @@
 ### overview/publishing.md
 - add note about previewing in Taster (?preview=true)
 
+### overview/supported-devices.md
+- add info about 'in pilot browser detection'
+
 ### technical/AWS-info.md
 
 ### technical/standalone-pilot-integration-steps.md
@@ -45,11 +48,6 @@
 - /docs/pilot-testing.md
   - move into overview
   - make our Taster testing responsibilities clear 
-
-- /docs/supported-devices.md
-  - move into /overview
-  - update links
-  - add info about 'in pilot browser detection'
 
 - /docs/integration/iframe.md
   - separate into test harness doc and functionality doc (deep linking etc)

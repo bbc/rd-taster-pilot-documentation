@@ -2,7 +2,7 @@
 
 Users aren't always able to use browsers and devices that support the latest features that pilots rely on. To prevent them from receiving a broken experience, the Taster platform performs [feature detection](https://modernizr.com/docs/#what-is-feature-detection) and if their browser does not support the required features we display a message that suggests they try with an alternative browser.
 
-![An example of a 'unsupported device' warning](./unsupported_device.png?raw=true)
+![An example of a 'unsupported device' warning](./images/unsupported_device.png?raw=true)
 
 ## How it works
 

@@ -122,7 +122,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Device/Browser Requirements</strong></p>
                 <p>Who can use your pilot, and what browsers/devices are supported</p>
-                <a href="/docs/supported-devices.md">Read more...</a>
+                <a href="/overview/supported-devices.md">Read more...</a>
             </td>
             <td>
                 <ul>
