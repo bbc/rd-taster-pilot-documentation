@@ -8,7 +8,7 @@ Pilots applications are typically (but not always) web applications. This docume
 
 Creating and launching your pilot into Taster is a collaborative effort. You will go through the following stages, working with the Taster team throughout 
 
-<img src="./overview/images/pilot-process.png" alt="Taster hosting overview" width="650" >
+<img src="./overview/images/pilot-process.png" alt="Taster hosting overview" width="750" >
 
 More detail about the concerns highlighted in the process are given below, including the **actions that must be completed** to satisfy them. 
 
@@ -207,7 +207,6 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li>Launch date proposed</li>
                 </ul>
             </td>
             <td>
