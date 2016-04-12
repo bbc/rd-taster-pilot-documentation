@@ -83,7 +83,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 Third party hosted:
                 <ul>
-                    <li>Create a hosting diagram (Third Party hosted)</li>
+                    <li>Create a hosting diagram</li>
                 </ul>
             </td>
             <td>
