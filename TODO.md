@@ -40,11 +40,6 @@
 - /docs/pilot-kickoff-pack.md
   - written by Becky. Is it appropriate for this documentation? Discuss
 
-- /docs/pilot-technical-pack.md
-  - check everything currently in this doc is covered elsewhere
-  - MOVE technical review info **somewhere**
-  - DELETE when everything moved
-
 - /docs/pilot-testing.md
   - move into overview
   - make our Taster testing responsibilities clear 
