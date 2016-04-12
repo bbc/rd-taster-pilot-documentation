@@ -25,7 +25,7 @@ More detail about the concerns highlighted in the process are given below, inclu
         <tr>
             <td>
                 <p><strong>Scoping</strong></p>
-                <p>Tell us about your pilot application and how it work and we'll tell you we've understood it</p>
+                <p>Tell us how your pilot application works and we'll confirm we've understood</p>
             </td>
             <td>
                 Advise on:
