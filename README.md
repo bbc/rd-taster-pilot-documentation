@@ -56,9 +56,9 @@ More detail about the concerns highlighted in the process are given below, inclu
                 </ul>
             </td>
             <td>
+                Standalone pilots only:
                 <ul>
-                    <li>Choose presentation style</li>
-                    <li>Complete standalone integration steps (if required)</li>
+                    <li>Complete integration steps</li>
                 </ul>
             </td>
             <td>
