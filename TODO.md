@@ -5,8 +5,9 @@ Documents that need adding to
 - separate 'why analytics' and implementation details into distinct documents
 
 ### overview/deployment.md
-- can do DNS record for Third Party hosted?
+- we can do DNS record for Third Party hosted?
 - detail handover plan, scripts/instructions etc
+- details for troubleshooting? where are logs etc?
 
 ### overview/information-security.md
 - detail why
@@ -48,6 +49,9 @@ Details to add/change
 - guidance for Wordpress?
 - advice on Facebook/Twitter login?
 - secured admin/duration tools
+- add download link to Katie's spreadsheet
+  - This spreadsheet will provide guidance to all the activities needed for Integrating with Taster.
+  Additionally, it will help pilots to manage a check list of activities
 
 New sections to consider
 ========================
