@@ -65,7 +65,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li><a href="technical/standalone-pilot-integration-steps.md">Standalone pilot integration steps</a></li>
-                    <li><a href="docs/integration/iframe.md">Integrated pilot test harness</a></li>
+                    <li><a href="technical/integrated-pilot-integration-steps.md">Integrated pilot integration steps</a></li>
                 </ul>
             </td>
         </tr>
@@ -192,7 +192,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <ul>
                     <li><a href="overview/deployment.md">Deployment for Taster hosted pilots</a></li>
-                    <li><a href="docs/integration/iframe.md">Integrated pilot test harness</a></li>
+                    <li><a href="technical/integrated-pilot-integration-steps.md#taster-iframe-test-harness">Integrated pilot test harness</a></li>
                 </ul>
             </td>
         </tr>

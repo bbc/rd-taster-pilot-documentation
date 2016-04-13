@@ -25,6 +25,10 @@
 - advice for scaling
 - explicit we use it, constraints on pilot design
 
+### technical/integrated-pilot-integration-steps.md
+- better steps for launching test harness
+- separate into test harness doc and functionality doc (deep linking etc)?
+
 ### technical/standalone-pilot-integration-steps.md
 - quick-rate badge
   - quick-rate badge for standalone pilots code snippet
@@ -55,10 +59,6 @@
 - /docs/pilot-testing.md
   - move into overview
   - make our Taster testing responsibilities clear 
-
-- /docs/integration/iframe.md
-  - separate into test harness doc and functionality doc (deep linking etc)
-  - update links
 
 - /docs/integration/new-window.md
   - collate quick-rate badge here with "standalone pilot integration steps"

@@ -10,7 +10,7 @@ An integrated pilot is presented within the pilot info page, by loading the pilo
 
 ![Integrated overview](./images/presentation-integrated.png?raw=true)
 
-More information for preparing an integrated pilot is given [here](../integration/iframe.md)  
+More information for preparing an integrated pilot is given [here](../technical/integrated-pilot-integration-steps.md)  
 
 ## Standalone pilot
 
