@@ -30,8 +30,8 @@
 - separate into test harness doc and functionality doc (deep linking etc)?
 
 ### technical/standalone-pilot-integration-steps.md
-- quick-rate badge
-  - quick-rate badge for standalone pilots code snippet
+ - quick-rate badge
+  - "There are two types of panel:" is not correct. Describe how badge behaves depending on pilot being published or not
   - quick-rate badge for BBC pages code snippet
 
 ## Details to add/change
@@ -59,6 +59,3 @@
 - /docs/pilot-testing.md
   - move into overview
   - make our Taster testing responsibilities clear 
-
-- /docs/integration/new-window.md
-  - collate quick-rate badge here with "standalone pilot integration steps"

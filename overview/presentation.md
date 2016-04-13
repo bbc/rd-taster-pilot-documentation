@@ -18,7 +18,7 @@ A standalone pilot is presented in its own page - the "Try it" button opens the 
 
 ![Integrated overview](./images/presentation-standalone.png?raw=true)
 
-There are additional integration steps required to prepare a standalone pilot, as detailed [here](../integration/new-window.md)
+There are additional integration steps required to prepare a standalone pilot, as detailed [here](../technical/standalone-pilot-integration-steps.md)
 
 ## Accessibility
 
