@@ -1,6 +1,5 @@
-# Documentation TODO list
-
-## New documents that need adding to
+Documents that need adding to
+=============================
 
 ### overview/analytics-documentation.md
 - separate 'why analytics' and implementation details into distinct documents
@@ -14,6 +13,10 @@
 - detail each component function inputs/outputs
 - overview of forms to fill in
 - overview of process (fill in forms, submit for review, answer raised concerns)
+
+### overview/pilot-kickoff-pack.md
+- Link from intro section of README.md?
+- Can it be made smaller, does it duplicate info in other pages?
 
 ### overview/publishing.md
 - add note about previewing in Taster (?preview=true)
@@ -34,7 +37,9 @@
   - "There are two types of panel:" is not correct. Describe how badge behaves depending on pilot being published or not
   - quick-rate badge for BBC pages code snippet
 
-## Details to add/change
+Details to add/change
+=====================
+
 - scaling advice (separate DB, etc)
 - adding echo (technical doc)
 - previewing pilot in live test (?preview=true)
@@ -44,14 +49,10 @@
 - advice on Facebook/Twitter login?
 - secured admin/duration tools
 
-## New sections
-- what happens after a pilot has ended
-  - will we switch it off?
-  - what if pilot team wants it to remain running
- 
-## What to do with existing pages:
-- /docs/interactive-video.md
-  - do we still need this?
+New sections to consider
+========================
 
-- /docs/pilot-kickoff-pack.md
-  - written by Becky. Is it appropriate for this documentation? Discuss 
+### what happens after a pilot has ended
+ - will we switch it off?
+ - what if pilot team wants it to remain running
+ - reflecting on rating info
