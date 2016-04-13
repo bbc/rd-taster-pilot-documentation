@@ -1,14 +1,10 @@
-Documents that need adding to
-=============================
-
-### overview/analytics-documentation.md
-- separate 'why analytics' and implementation details into distinct documents
-- link implementation detail (how to add Echo) doc from RH column on main README.md
+Unfinished (unfit) pages - address these first!
+===============================================
 
 ### overview/deployment.md
-- we can do DNS record for Third Party hosted?
-- detail handover plan, scripts/instructions etc
+- detail handover plan, scripts/instructions etc. Set expectations & requirements
 - details for troubleshooting? where are logs etc?
+- we can do DNS record for Third Party hosted?
 
 ### overview/information-security.md
 - detail why
@@ -16,19 +12,29 @@ Documents that need adding to
 - overview of forms to fill in
 - overview of process (fill in forms, submit for review, answer raised concerns)
 
+### overview/publishing.md
+- some explanation of how a pilot is turned on in Taster
+- add note about previewing in Taster (?preview=true)
+
+
+
+Documents that need more adding to them
+=======================================
+
+### overview/analytics-documentation.md
+- separate 'why analytics' and implementation details into distinct documents
+- link implementation detail (how to add Echo) doc from RH column on main README.md
+
 ### overview/pilot-kickoff-pack.md
 - Link from intro section of README.md?
 - Can it be made smaller, does it duplicate info in other pages?
-
-### overview/publishing.md
-- add note about previewing in Taster (?preview=true)
 
 ### overview/supported-devices.md
 - add info about 'in pilot browser detection'
 
 ### technical/AWS-info.md
 - advice for scaling
-- explicit we use it, constraints on pilot design
+- explicit we use it, constraints on pilot design (e.g. type of DB used)
 
 ### technical/integrated-pilot-integration-steps.md
 - better steps for launching test harness
@@ -38,6 +44,8 @@ Documents that need adding to
  - quick-rate badge
   - "There are two types of panel:" is not correct. Describe how badge behaves depending on pilot being published or not
   - quick-rate badge for BBC pages code snippet
+
+
 
 Details to add/change
 =====================
@@ -54,6 +62,8 @@ Details to add/change
   - This spreadsheet will provide guidance to all the activities needed for Integrating with Taster.
   Additionally, it will help pilots to manage a check list of activities
 
+
+
 New sections to consider
 ========================
 
@@ -61,6 +71,8 @@ New sections to consider
  - will we switch it off?
  - what do we do with pilots that have requests for continued hosting
  - reflecting on rating info
+
+
 
 Oli feedback
 ============

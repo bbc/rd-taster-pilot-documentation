@@ -7,6 +7,7 @@ It is perfectly normal to expect multiple deployments to occur before the pilot 
 
 The deployment of your application is dependent on how it is [hosted](hosting)
 
-If the pilot is [third party hosted](hosting.md#third-party-hosted) then you're on your own.
+If the pilot is [third party hosted](hosting.md#third-party-hosted) then are responsible for its deployment.
 
-If your pilot is [Taster hosted](hosting.md#taster-hosted) then read on...
+If your pilot is [Taster hosted](hosting.md#taster-hosted) then a deployment plan must be agreed with the Taster team - our
+technical staff will work with you to deploy your application into our hosting environment
