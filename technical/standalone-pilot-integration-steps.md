@@ -12,18 +12,17 @@ The Taster quick-rate adds some key functionality to your pilot
  - manages audience expectation by advertising that the pilot may break
  - provides [standard analytics](../overview/analytics-documentation.md#Standard-Analytics) for the pilot
 
-To integrate the quick-rate badge you need to add the following tags to your application HTML, replacing `<pilot_id>` (e.g. hackstage-pass)
-and `<panel_type>` (see below table) with the appropriate values before embedding.  
+To integrate the quick-rate badge add the following tags to your application HTML, replacing `<pilot_id>` (e.g. hackstage-pass)
+and `<panel_type>` (see below table) with the appropriate values.  
 
     <script src="http://www.bbc.co.uk/taster/pilot-lib.js" type="text/javascript" ></script>
     <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot_id>/offsite/<panel_type>" frameborder="0" scrolling="no"></iframe>
 
-The panel can be given a width with CSS or the width attribute on the iframe element; the height will be responsively
-adjusted so this must be left unset.  The minimum width is 285px, any less and the panel will not display correctly.  
-Positioning is up to you but we would recommend that the panel is positioned in such a way as to not require scrolling
-by the user to interact with.
+The badge can be given a width with CSS or the width attribute on the iframe element; the height will be responsively
+adjusted so this must be left unset. The minimum width is 285px, any less and the badge will not display correctly.  
+Positioning is up to you but we recommend placing the badge so that the user does not have to scroll to interact with it.
 
-The panel is initialised by adding the following JS snippet to the page:
+Initialise the badge by adding the following JS snippet to the page:
 
     <script type="text/javascript">
         require(['pilot-lib/taster-offsite-panel'], function (Panel) {
@@ -31,7 +30,7 @@ The panel is initialised by adding the following JS snippet to the page:
         });
     </script>
 
-There are two types of panel:
+There are two types of quick-rate badge:
 
 | `<panel_type>` | use |
 | --------------|-----|
