@@ -3,6 +3,7 @@ Documents that need adding to
 
 ### overview/analytics-documentation.md
 - separate 'why analytics' and implementation details into distinct documents
+- link implementation detail (how to add Echo) doc from RH column on main README.md
 
 ### overview/deployment.md
 - we can do DNS record for Third Party hosted?
@@ -58,5 +59,20 @@ New sections to consider
 
 ### what happens after a pilot has ended
  - will we switch it off?
- - what if pilot team wants it to remain running
+ - what do we do with pilots that have requests for continued hosting
  - reflecting on rating info
+
+Oli feedback
+============
+
+The different on-boarding pages could benefit from a quick summary/section overview at the top of the page. 
+
+We need a bit more 'why' in there
+ - guiding principles around what benefit piloting projects brings and in consequence what do we need to think about when we are developing. 
+ - I'd say - simplicity, measurement, thoughts for what happens next / scale are some good things to bear in mind. 
+
+Audience - are you looking at this as the single point of record for all pilot onboarding (Inc 'business people')? Or is it just for tech integration? - I think there is some more clarity we could give around the tasks producers / sponsors have in this process.   
+
+Standalone pilots
+ - we don't mention what the badge actually does re rating and survey answers and how this is driven by the work you do with content producers.
+ - should we have a section explaining rating/questionnaire and explain how this is surfaced in integrated/standalone pilots? 
