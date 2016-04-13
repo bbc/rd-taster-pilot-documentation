@@ -167,6 +167,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             <td>
                 <p><strong>Deployment and testing</strong></p>
                 <p>Transfer your pilot into its (live) hosting environment and make sure it works</p>
+                <a href="overview/pilot-testing.md">Read more about testing...</a>
             </td>
             <td>
                 Taster hosted:

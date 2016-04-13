@@ -54,8 +54,4 @@
   - do we still need this?
 
 - /docs/pilot-kickoff-pack.md
-  - written by Becky. Is it appropriate for this documentation? Discuss
-
-- /docs/pilot-testing.md
-  - move into overview
-  - make our Taster testing responsibilities clear 
+  - written by Becky. Is it appropriate for this documentation? Discuss 
