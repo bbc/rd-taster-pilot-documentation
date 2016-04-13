@@ -30,7 +30,7 @@ All the technical steps needed for launching a pilot on Taster are covered [here
 
 Some pilots will include digital analytics in order to track certain interactions within the content, and thus gather information about particular user behaviour. This is considered to be supplementary Audience Testing information (please see the section on [testing](pilot-testing.md) to see how this fits in with the other measurements we are able to make).
 
-The ‘tagging spec’ containing a list of what will be tagged, and the correct tag names, will be provided by the Connected Studio and Taster team. The tags themselves will need to be implemented by the indie (technical information on the BBC’s stats library can be found [here](analytics-documentation.md)). Data analysis and reporting on the analytics are the responsibility of the CS and Taster team.
+Full details about analytics are given [here](analytics-documentation.md)
 
 ##Testing: the different types
 
