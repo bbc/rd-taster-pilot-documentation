@@ -28,7 +28,7 @@ So what do I need to do... Don't worry! It's not difficult.
 <div id='Standard-Analytics'/>
 ###Standard Analytics:
 
-Your **standard** analytics are built into the Taster integration that you undertake with the Taster team, whether that's via the Taster site itself (for integrated pilots) or via the offsite quickrate badge (for standalone pilots), which handles all data capture. This answers:
+Your **standard** analytics are built into the Taster integration that you undertake with the Taster team, whether that's via the Taster site itself (for integrated pilots) or via the quick-rate badge (for standalone pilots), which handles all data capture. This answers:
 
 1) How many people went to your experience + pageviews
 
@@ -78,7 +78,7 @@ Your analytics are tied to your pilotID and are automatically generated as part 
 
 **- For standalone pilots:**
 
-Your analytics are tied to the offsite quick-rate badge, and your pilot-ID.
+Your analytics are tied to the quick-rate badge, and your pilot-ID.
 
 **To implement** the quickrate badge, you will need to follow the documentation supplied in your Taster onboarding documentation.
 
@@ -90,7 +90,7 @@ The way this works is by setting 2 stats counters on pilot pages:
 Your Content Producer will supply you with a pilot ID that you can then use to integrate the badge correctly, as [documented here](../technical/standalone-pilot-integration-steps.md).
 
 **It is very important to select the correct variable and pilot ID when implementing as this will have impact in terms of analytics and attribution.**
-**If you are running your pilot on a BBC product page (Eg. Sport), please note that the correct URL variant must be used in your implementation to ensure there is no conflict on existing countername implementation. The implication of this will be that pageviews are not counted via the offsite badge, and will not appear in the Taster dashboard. You will need to count pageviews via the product's countername.**
+**If you are running your pilot on a BBC product page (Eg. Sport), please note that the correct URL variant must be used in your implementation to ensure there is no conflict on existing countername implementation. The implication of this will be that pageviews are not counted via the quick-rate badge, and will not appear in the Taster dashboard. You will need to count pageviews via the product's countername.**
 <div id='custom'/>
 ###CUSTOM BEHAVIOURAL ANALYTICS:
 

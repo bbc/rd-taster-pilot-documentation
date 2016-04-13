@@ -12,7 +12,7 @@ The Taster quick-rate adds some key functionality to your pilot
  - manages audience expectation by advertising that the pilot may break
  - provides [standard analytics](../overview/analytics-documentation.md#Standard-Analytics) for the pilot
 
-To integrate our offsite panel you need to add the following tags to your application HTML, replacing `<pilot_id>` (e.g. hackstage-pass)
+To integrate the quick-rate badge you need to add the following tags to your application HTML, replacing `<pilot_id>` (e.g. hackstage-pass)
 and `<panel_type>` (see below table) with the appropriate values before embedding.  
 
     <script src="http://www.bbc.co.uk/taster/pilot-lib.js" type="text/javascript" ></script>
