@@ -3,7 +3,7 @@
 ## New documents that need adding to
 
 ### overview/analytics-documentation.md
-  - separate 'why analytics' and implementation details into distinct documents
+- separate 'why analytics' and implementation details into distinct documents
 
 ### overview/deployment.md
 - can do DNS record for Third Party hosted?
@@ -22,6 +22,8 @@
 - add info about 'in pilot browser detection'
 
 ### technical/AWS-info.md
+- advice for scaling
+- explicit we use it, constraints on pilot design
 
 ### technical/standalone-pilot-integration-steps.md
 - quick-rate badge
@@ -29,15 +31,20 @@
   - quick-rate badge for BBC pages code snippet
 
 ## Details to add/change
-
 - scaling advice (separate DB, etc)
 - adding echo (technical doc)
 - previewing pilot in live test (?preview=true)
 - quick rate badge behaviour for unpublished pilots
 - SMP documentation/integration
-- TX/proposed launch date at start of process
-- advice on Facebook/Twitter login
+- guidance for Wordpress?
+- advice on Facebook/Twitter login?
+- secured admin/duration tools
 
+## New sections
+- what happens after a pilot has ended
+  - will we switch it off?
+  - what if pilot team wants it to remain running
+ 
 ## What to do with existing pages:
 - /docs/interactive-video.md
   - do we still need this?
