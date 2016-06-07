@@ -6,11 +6,11 @@ Pilots applications are typically (but not always) web applications. This docume
 
 ## On-boarding Process
 
-Creating and launching your pilot into Taster is a collaborative effort. You will go through the following stages, working with the Taster team throughout 
+Creating and launching your pilot into Taster is a collaborative effort. You will go through the following stages, working with the Taster team throughout
 
 <img src="./overview/images/pilot-process.png" alt="Taster hosting overview" width="750" >
 
-More detail about the concerns highlighted in the process are given below, including the **actions that must be completed** to satisfy them. 
+More detail about the concerns highlighted in the process are given below, including the **actions that must be completed** to satisfy them.
 
 <table>
     <thead>
@@ -141,7 +141,7 @@ More detail about the concerns highlighted in the process are given below, inclu
         <tr>
             <td>
                 <p><strong>Security</strong></p>
-                <p>Ensure your audience is safe when using the pilot</p>
+                <p>Ensure your audience and your data is safe when using the pilot</p>
                 <a href="overview/information-security.md">Read more...</a>
             </td>
             <td>
@@ -152,7 +152,8 @@ More detail about the concerns highlighted in the process are given below, inclu
                 </ul>
             </td>
             <td>
-                Complete (if applicable)
+                Any extra reasons for HTTPS hosting
+                Complete (if applicable):
                 <ul>
                     <li>Compliance Summary form</li>
                     <li>Software Weakness Review form</li>

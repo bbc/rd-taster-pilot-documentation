@@ -6,6 +6,7 @@ We work in partnership with the BBC's Information Security team (InfoSec) to per
 - what user data is collected, and how is it used?
 - has the application considered security, and does it have any potential weaknesses or flaws?
 - is the environment used to host the application secure?
+- does the data contained in the pilot need restricting or protecting? (e.g. because of rights issues)
 
 ## The review process
 
@@ -21,5 +22,5 @@ Additionally, if your pilot uses third party hosting, you may be required to a c
 Note the [application diagram](pilot-description.md#application-diagram) and [hosting diagram](pilot-description.md#hosting-diagram) are critical here as they allow us to:
 - make a call on InfoSecs behalf on whether a formal review is required
 - be included in the **Compliance Summary** (for pilots needing a formal review) to help InfoSec verify that your application is secure and any user data collected/used by the pilot adheres to BBC policy.
- 
+
 If your pilot requires these forms to be completed then you will be given access to the BBC's systems to complete them and discuss them with the InfoSec team.
