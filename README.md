@@ -152,7 +152,7 @@ More detail about the concerns highlighted in the process are given below, inclu
                 </ul>
             </td>
             <td>
-                Any extra reasons for HTTPS hosting
+                <p>Any extra reasons for HTTPS hosting</p>
                 Complete (if applicable):
                 <ul>
                     <li>Compliance Summary form</li>
