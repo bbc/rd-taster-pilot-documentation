@@ -120,17 +120,20 @@ require(['echo-4.0.2'], function(Echo){
   Enums = Echo.Enums,             // Enums
   ConfigKeys = Echo.ConfigKeys,   // Key names to use in config            Environment = Echo.Environment; // Class to allow overriding default behaviour
   var echo = new EchoClient(
-    'taster',                    // App Name
+    'taster',                    // App Name - leave as taster
     Enums.ApplicationType.WEB   // App Type
   );
   
   //set bbc\_site managed label - this label is mandatory and is required to assign data in comscore to the correct BBC product:
   echo.addManagedLabel(Enums.ManagedLabels.BBC\_SITE, "taster");
+
+  // Change your-pilot-name to your pilot ID
   echo.addLabel("pilot_name”,"your-pilot-name");
   
-  //You can optionally set the version of your application: 
+  // You can optionally set the version of your application:
   echo.setAppVersion('1.0.0');
   
+  // Change your-pilot-name to your pilot ID
   echo.viewEvent("taster.pilot.your-pilot-name.internal.home.page");
 });
 ```
