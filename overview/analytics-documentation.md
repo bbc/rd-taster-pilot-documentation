@@ -127,14 +127,14 @@ require(['echo-4.0.2'], function(Echo){
   //set bbc\_site managed label - this label is mandatory and is required to assign data in comscore to the correct BBC product:
   echo.addManagedLabel(Enums.ManagedLabels.BBC\_SITE, "taster");
 
-  // Change your-pilot-name to your pilot ID
+  // Change <your-pilot-name> to the pilot identifier we've provided
   echo.addLabel("pilot_name”,"your-pilot-name");
   
   // You can optionally set the version of your application:
   echo.setAppVersion('1.0.0');
   
-  // Change your-pilot-name to your pilot ID
-  echo.viewEvent("taster.pilot.your-pilot-name.internal.home.page");
+  // Change <your-pilot-name> to the pilot identifier we've provided
+  echo.viewEvent("taster.pilot.<your-pilot-name>.internal.home.page");
 });
 ```
 You may see some failed calls (probably 401) from this library, don't worry about these, they are calls to a currently disabled analytics system.
