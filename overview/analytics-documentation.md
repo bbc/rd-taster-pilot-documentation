@@ -128,7 +128,7 @@ require(['echo-4.0.2'], function(Echo){
   echo.addManagedLabel(Enums.ManagedLabels.BBC\_SITE, "taster");
 
   // Change <your-pilot-name> to the pilot identifier we've provided
-  echo.addLabel("pilot_name”,"your-pilot-name");
+  echo.addLabel("pilot_name”,"<your-pilot-name>");
   
   // You can optionally set the version of your application:
   echo.setAppVersion('1.0.0');
