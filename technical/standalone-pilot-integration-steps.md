@@ -20,7 +20,20 @@ and `<panel_type>` (see below table) with the appropriate values.
 
 The badge can be given a width with CSS or the width attribute on the iframe element; the height will be responsively
 adjusted so this must be left unset. The minimum width is 285px, any less and the badge will not display correctly.  
+
+### Standard badge positioning
 Positioning is up to you but we recommend placing the badge so that the user does not have to scroll to interact with it.
+
+### Slim Badge Positioning
+Add the folowing CSS Class to position the badge in the top right of the page
+```
+.taster-offsite-panel {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 2;
+}
+```
 
 Initialise the badge by adding the following JS snippet to the page:
 
