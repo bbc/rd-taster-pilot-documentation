@@ -33,6 +33,20 @@ The following information will detail the steps for implementing the MVT; then v
 
 An individual variant of the MVT can be specified through query strings in the following form. Replace the iframe reference (line 2 of the Integration guide section) with one of the following.
 
+### [Variant-A](http://dummy.pilots.bbcconnectedstudio.co.uk/variant_a.html)
+
+Variant A is a version of the quick-rate badge that typically sits above the pilot in an iFrame (although there is some degree of customisation available here). It is typically full-width and provides the user with the opportunity to rate the pilot and answer a few survey questions.
+
+This version is likely to increase response rates for ratings and survey questions.
+
+### [Variant-B](http://dummy.pilots.bbcconnectedstudio.co.uk/variant_b.html)
+
+Variant B is a more recent addition which reduces the footprint of the quick-rate badge within the pilot. It is optimised for mobile, but is also responsive and suitable for any device. This version sits within the pilot, typically floating on the top-right hand corner. When the user interacts with the rate button, it expands to a full-width allow the user to rate the pilot and answer survey questions as usual.
+
+This version may reduce response rates due to it's smaller footprint. We are currently in the process of revising and updating the slim badge, but any concerns can be discussed with the Taster team.
+
+### How to add a specific variant
+
 To add [variant a](http://dummy.pilots.bbcconnectedstudio.co.uk/variant_a.html) ( to your pilot use the following query string:
 ```
 <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/rate_mvt?variant=a" frameborder="0" scrolling="no" id="iFrameResizer0></iframe>
