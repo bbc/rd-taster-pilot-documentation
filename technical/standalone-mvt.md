@@ -46,7 +46,7 @@ The styling of the MVT is important as the two variants will require different s
 
 A class will be **automatically** assigned to the iframe. You do not need to assign the classname in the iframe declaration.
 
-Variant A will receive the class: `variant-a` and variant B will receive the class `variant-b`.  An example of styling is shown below. This can be customised to some extent, but changes should be discussed with the Taster team.
+Variant A will receive the class: `variant-a` and variant B will receive the class: `variant-b`.  An example of styling is shown below. This can be customised to some extent, but changes should be discussed with the Taster team (e.g. changes to position or size).
 ```
 .taster-offsite-panel {
   display: block;
