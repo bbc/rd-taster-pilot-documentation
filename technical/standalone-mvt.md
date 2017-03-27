@@ -16,7 +16,7 @@ The following information will detail the steps for implementing the MVT; then v
 2. The iframe (which contains the quickrate badge) should be placed on the page with the following HTML:
 
   ```
-  <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/rate_mvt" frameborder="0" scrolling="no" id="iFrameResizer0></iframe>
+  <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/rate_mvt" frameborder="0" scrolling="no" id="iFrameResizer"></iframe>
   ```
 
 3. At the end of the document (within the body tags), the following code should be entered (ensuring that the classname from the line above matches that referred to below):
@@ -49,12 +49,12 @@ This version may reduce response rates due to it's smaller footprint. We are cur
 
 To add [variant a](http://dummy.pilots.bbcconnectedstudio.co.uk/variant_a.html) ( to your pilot use the following query string:
 ```
-<iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/rate_mvt?variant=a" frameborder="0" scrolling="no" id="iFrameResizer0></iframe>
+<iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/rate_mvt?variant=a" frameborder="0" scrolling="no" id="iFrameResizer"></iframe>
 ```
 
 To add [variant b](http://dummy.pilots.bbcconnectedstudio.co.uk/variant_b.html) to your pilot use the following query string:
 ```
-<iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/rate_mvt?variant=b" frameborder="0" scrolling="no" id="iFrameResizer0></iframe>
+<iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/rate_mvt?variant=b" frameborder="0" scrolling="no" id="iFrameResizer"></iframe>
 ```
 
 ## Styling
