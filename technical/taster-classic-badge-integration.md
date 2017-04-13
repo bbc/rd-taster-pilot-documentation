@@ -1,4 +1,4 @@
-# Taster Slim Badge Integration Instructions
+# Taster Classic Badge Integration
 
 This document is intended for those who want to integrate the classic badge into their pilot. Please follow these instructions carefully, and if you wish to deviate from the default settings for any reason, please discuss this with a member of the Taster team (tastertech@rd.bbc.co.uk).
 
