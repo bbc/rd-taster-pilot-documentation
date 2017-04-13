@@ -14,11 +14,11 @@ The Taster quickrate badge adds some key functionality to your pilot:
  - manages audience expectation by advertising that the pilot may break
  - provides [standard analytics](../overview/analytics-documentation.md#Standard-Analytics) for the pilot
 
-We have developed two badges which will sit within your pilot. There is a Slim edition and a Classic Edition.
+We have developed two badges which will sit within your pilot. There is a Slim edition and a Classic Edition. Each of these may be chosen for different reasons outlined below:
 
 * ### Slim edition
 
- The Taster Slim Badge is a small badge that sits at a fixed position at the upper right hand side of your pilot. A demonstration version is visible at:
+ The Taster Slim Badge is a small badge that sits at a fixed position at the upper right hand side of your pilot. You may wish to use this option if your pilot is predominately a mobile pilot; doesn't contain elements that would be obscured by the badge; or you wish to reduce the space at the top of the pilot that the rating bar requires. As this version of the badge is smaller, it may reduce the conversion to rates and shares. A demonstration version is visible at:
 
  http://dummy.pilots.bbcconnectedstudio.co.uk/offsite_slim
 
@@ -26,9 +26,9 @@ We have developed two badges which will sit within your pilot. There is a Slim e
 
  [**Slim Badge Integration Guide**](taster-slim-badge-integration.md)
 
-* ### Classic edition (Under Development)
+* ### Classic edition
 
- The Taster Classic Badge is a larger badge that sits full width at the very top of your pilot, above all other content as a separate element. This means that it will not hover over content within your pilot, but also uses more screen real estate. This may, or may not use the `rate` endpoint.
+ The Taster Classic Badge is a larger badge that sits full width at the very top of your pilot, above all other content as a separate element. You may wish to use this badge if your layout prevents the overlay of the slim badge; if you wish to increase the conversion to ratings (the slim badge is smaller); or your pilot is primarily intended for desktop applications.
  If you wish to use the classic badge at this time, please refer to the integration documentation in the associated document, i.e:
 
  [Classic Badge Integration Guide](standalone-pilot-integration-steps.md)
