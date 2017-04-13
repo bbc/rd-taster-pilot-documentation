@@ -31,7 +31,7 @@ We have developed two badges which will sit within your pilot. There is a Slim e
  The Taster Classic Badge is a larger badge that sits full width at the very top of your pilot, above all other content as a separate element. You may wish to use this badge if your layout prevents the overlay of the slim badge; if you wish to increase the conversion to ratings (the slim badge is smaller); or your pilot is primarily intended for desktop applications.
  If you wish to use the classic badge at this time, please refer to the integration documentation in the associated document, i.e:
 
- [**Classic Badge Integration Guide**](standalone-pilot-integration-steps.md)
+ [**Classic Badge Integration Guide**](taster-classic-badge-integration.md)
 
 ## Legal Links
 
