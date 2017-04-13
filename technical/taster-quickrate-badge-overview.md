@@ -1,6 +1,6 @@
-# Taster Offsite Badge
+# Taster Quickrate Badge
 
-These instructions are for pilot teams for whom their pilot will not be integrated into Taster. In this instance, Taster will present a link which will direct users to a different URL under which the pilot is accessible. As such, the rating/sharing functionality which is built into Taster will not be accessible. The solution to this problem has been resolved through the use of iFrames.
+These instructions are for pilot teams for whom their pilot will **not** be integrated into Taster. In this instance, Taster will present a link which will direct users to a different URL under which the pilot is accessible. As such, the rating/sharing functionality which is built into Taster will not be accessible. The solution to this problem has been resolved through the use of iFrames.
 
 We have developed two badges which will sit within your pilot. There is a Slim edition and a Classic Edition.
 
@@ -12,7 +12,7 @@ http://dummy.pilots.bbcconnectedstudio.co.uk/offsite_slim
 
 If you wish to use this version of the badge, please refer to the integration documentation in the associated document, i.e:
 
-[**Slim Badge Integration Guide**](offsite-slim-badge-integration.md)
+[**Slim Badge Integration Guide**](taster-slim-badge-integration.md)
 
 ## Classic edition (Under Development)
 

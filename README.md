@@ -216,7 +216,7 @@ More detail about the concerns highlighted in the process are given below, inclu
             </td>
             <td>
                 <ul>
-                    <li>Quick-rate badge behaviour</li>
+                    <li>Quickrate badge behaviour</li>
                     <li>Previewing a pilot</li>
                 </ul>
             </td>

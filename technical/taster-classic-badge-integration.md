@@ -1,6 +1,13 @@
-# Offsite Slim Badge Integration Instructions
+# Taster Slim Badge Integration Instructions
 
-This document is intended for those who want to integrate the slim badge into their offsite pilot. Please follow these instructions carefully, and if you wish to deviate from the default settings for any reason, please discuss this with a member of the Taster team (tastertech@rd.bbc.co.uk).
+This document is intended for those who want to integrate the classic badge into their pilot. Please follow these instructions carefully, and if you wish to deviate from the default settings for any reason, please discuss this with a member of the Taster team (tastertech@rd.bbc.co.uk).
+
+There are two types of classic quickrate badge:
+
+| `<panel_type>` | use |
+| --------------|-----|
+| `link` | The panel features a button that, when clicked, opens the appropriate Taster Pilot Page in a new window, with the rating dropdown open |
+| `rate` | Keeps users on your page without directing them back to Taster. For users without JavaScript this behaves like the link panel. With this widget the users can rate and answer survey questions on the page and the contents of the iframe update themselves accordingly |
 
 ## Integration Guide
 
@@ -12,7 +19,7 @@ There are several components and specifications that must be included in your si
   <script type="text/javascript" src="http://www.bbc.co.uk/taster/pilot-lib-slim.js"></script>
   ```
 
-2. The iframe (which contains the quickrate badge) should be placed on the page with the following lines which initiate an iFrame pointed at the slim badge for your pilot. Please note that `<pilot-id>` should be replaced with the pilot ID that you have been assigned (if you are uncertain of this, please speak to the Taster team or refer to the Testing section at the end of this document):
+2. The iframe (which contains the quickrate badge) should be placed on the page with the following lines which initiate an iFrame pointed at the slim badge for your pilot. Please note that `<pilot-id>` should be replaced with the pilot ID that you have been assigned and `<panel_type>` should be relaced with `link` or `rate` according to the desired state described in the table above (if you are uncertain of these settings, please speak to the Taster team or refer to the Testing section at the end of this document):
 
   ```
   <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/slim" frameborder="0" scrolling="no"></iframe>
@@ -46,10 +53,16 @@ It should be noted that it is important for the iFrame to sit above all other co
 
 The badge will not be fully active, and interacting it will return a 404 page on Taster, until the pilot has been activated on our CMS. Or if you have not been assigned a pilot ID but wish to test the badge. If you wish to test a fully functional badge within your pilot then you can use the following amendments to the guide above.
 
-1. In order to test the iFrame, please redirect the iframe to a test URL as shown in the following example code:
+1. In order to test the rating version of the badge in an iFrame, please redirect the iframe to a test URL as shown in the following example code:
 
   ```
-  <iframe class="taster-offsite-panel" src="http://www.test.bbc.co.uk/taster/projects/automatedtestpilot/offsite/slim" frameborder="0" scrolling="no"></iframe>
+  <iframe class="taster-offsite-panel" src="http://www.test.bbc.co.uk/taster/projects/automatedtestpilot/offsite/rate" frameborder="0" scrolling="no"></iframe>
+  ```
+
+2. In order to test the link version of the badge in an iFrame, please redirect the iframe to a test URL as shown in the following example code:
+
+  ```
+  <iframe class="taster-offsite-panel" src="http://www.test.bbc.co.uk/taster/projects/automatedtestpilot/offsite/link" frameborder="0" scrolling="no"></iframe>
   ```
 
 **This cannot be delivered to us in the final version. Please ensure that this is for testing only, and update to the correct version as per the instructions outlined in section 2 above.**

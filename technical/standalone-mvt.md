@@ -1,3 +1,5 @@
+# **TO BE DEPRECATED, PLEASE SPEAK TO THE TASTER TEAM FOR INFORMATION (tastertech@rd.bbc.co.uk)**
+
 # Offsite Quickrate MVT
 
 ## A step-by-step guide to integrate the MVT badge, for both the full width (variant A) and slim badge (variant B).
@@ -35,13 +37,13 @@ An individual variant of the MVT can be specified through query strings in the f
 
 ### Classic Badge: [Variant-A](http://dummy.pilots.bbcconnectedstudio.co.uk/variant_a.html)
 
-Variant A is a version of the quick-rate badge that typically sits above the pilot in an iFrame (although there is some degree of customisation available here). It is typically full-width and provides the user with the opportunity to rate the pilot and answer a few survey questions.
+Variant A is a version of the quickrate badge that typically sits above the pilot in an iFrame (although there is some degree of customisation available here). It is typically full-width and provides the user with the opportunity to rate the pilot and answer a few survey questions.
 
 This version is likely to increase response rates for ratings and survey questions.
 
 ### Slim Badge: [Variant-B](http://dummy.pilots.bbcconnectedstudio.co.uk/variant_b.html)
 
-Variant B is a more recent addition which reduces the footprint of the quick-rate badge within the pilot. It is optimised for mobile, but is also responsive and suitable for any device. This version sits within the pilot, typically floating on the top-right hand corner. When the user interacts with the rate button, it expands to a full-width allow the user to rate the pilot and answer survey questions as usual.
+Variant B is a more recent addition which reduces the footprint of the quickrate badge within the pilot. It is optimised for mobile, but is also responsive and suitable for any device. This version sits within the pilot, typically floating on the top-right hand corner. When the user interacts with the rate button, it expands to a full-width allow the user to rate the pilot and answer survey questions as usual.
 
 This version may reduce response rates due to it's smaller footprint. We are currently in the process of revising and updating the slim badge, but any concerns can be discussed with the Taster team.
 

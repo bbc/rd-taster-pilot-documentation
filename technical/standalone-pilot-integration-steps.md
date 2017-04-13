@@ -1,46 +1,37 @@
 # Integration steps for standalone pilots
 
+These instructions are for pilot teams for whom their pilot will **not** be integrated into Taster. In this instance, Taster will present a link which will direct users to a different URL under which the pilot is accessible. As such, the rating/sharing functionality, legal links, and cookie warnings, which are built into Taster, will not be accessible. The solution to this problem has been resolved through the use of iFrames.
+
 If your pilot is being presented in its own page, it **must** include the following
-- [Taster Quick-rate Badge](#taster-quick-rate-badge)
+- [Taster Quickrate Badge](#taster-quickrate-badge)
 - [Legal Links](#legal-links)
 - [Cookie Warning](#cookie-warning)
 
-## Taster quick-rate badge
+## Taster quickrate badge
 
-The Taster quick-rate adds some key functionality to your pilot  
+The Taster quickrate badge adds some key functionality to your pilot:
  - brands the pilot as a BBC Taster project
  - manages audience expectation by advertising that the pilot may break
  - provides [standard analytics](../overview/analytics-documentation.md#Standard-Analytics) for the pilot
 
-There are now two versions of the quick-rate badge. The classic edition and the slim edition. If you wish to use the classic badge, please follow the instructions below. If you wish to use the slim edition, please follow the instructions in the related document ([Slim Badge Integration](offsite-slim-badge-integration.md)).
+We have developed two badges which will sit within your pilot. There is a Slim edition and a Classic Edition.
 
-## Classic quick-rate badge integration
+* ### Slim edition
 
-To integrate the classic quick-rate badge add the following tags to your application HTML, replacing `<pilot_id>` (e.g. hackstage-pass)
-and `<panel_type>` (see below table) with the appropriate values.  
+ The Taster Slim Badge is a small badge that sits at a fixed position at the upper right hand side of your pilot. A demonstration version is visible at:
 
-    <script src="http://www.bbc.co.uk/taster/pilot-lib.js" type="text/javascript" ></script>
-    <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot_id>/offsite/<panel_type>" frameborder="0" scrolling="no"></iframe>
+ http://dummy.pilots.bbcconnectedstudio.co.uk/offsite_slim
 
-The badge can be given a width with CSS or the width attribute on the iframe element; the height will be responsively
-adjusted so this must be left unset. The minimum width is 285px, any less and the badge will not display correctly.  
-Positioning is up to you but we recommend placing the badge so that the user does not have to scroll to interact with it.
+ If you wish to use this version of the badge, please refer to the integration documentation in the associated document, i.e:
 
-Initialise the badge by adding the following JS snippet to the page:
+ [**Slim Badge Integration Guide**](taster-slim-badge-integration.md)
 
-    <script type="text/javascript">
-        require(['pilot-lib/taster-offsite-panel'], function (Panel) {
-            var panel = new Panel('.taster-offsite-panel');
-        });
-    </script>
+* ### Classic edition (Under Development)
 
-There are three types of quick-rate badge:
+ The Taster Classic Badge is a larger badge that sits full width at the very top of your pilot, above all other content as a separate element. This means that it will not hover over content within your pilot, but also uses more screen real estate. This may, or may not use the `rate` endpoint.
+ If you wish to use the classic badge at this time, please refer to the integration documentation in the associated document, i.e:
 
-| `<panel_type>` | use |
-| --------------|-----|
-| `link` | The panel features a button that, when clicked, opens the appropriate Taster Pilot Page in a new window, with the rating dropdown open |
-| `rate` | Keeps users on your page without directing them back to Taster. For users without JavaScript this behaves like the link panel. With this widget the users can rate and answer survey questions on the page and the contents of the iframe update themselves accordingly |
-| `slim` | This is a version of the badge will require additional customisation over what is visible on this page, for more information see: [Slim Badge Integration](offsite-slim-badge-integration.md) |
+ [Classic Badge Integration Guide](standalone-pilot-integration-steps.md)
 
 ## Legal Links
 
@@ -67,3 +58,5 @@ This needs to be prominent on the users first visit to the site but can then dis
 As part of your technical review we will be looking at cookie usage to check whether a more specific warning is required.
 
 *Note that as the Taster badge uses a cookie, you* **must** *include a cookie warning in the pilot, even if your application doesn't use cookies itself*
+
+#### If anything is unclear, please contact a member of the Taster Team for support (tastertech@rd.bbc.co.uk).
