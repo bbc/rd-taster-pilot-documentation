@@ -67,4 +67,6 @@ The badge will not be fully active, and interacting it will return a 404 page on
 
 **This cannot be delivered to us in the final version. Please ensure that this is for testing only, and update to the correct version as per the instructions outlined in section 2 above.**
 
+### Please do not forget to add the legal links and cookie warnings as described in the [**Pilot Integration Guide**](standalone-pilot-integration-steps.md)
+
 ### If you require any additional information or support, or you wish to make any changes to the instructions above, please contact a member of the Taster Team (tastertech@rd.bbc.co.uk).
