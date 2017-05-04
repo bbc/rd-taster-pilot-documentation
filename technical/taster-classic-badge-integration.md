@@ -32,7 +32,6 @@ There are several components and specifications that must be included in your si
 
   ```
   .taster-offsite-panel {
-    position: absolute;
     top: 0;
     width: 100%;
     z-index: 2;
