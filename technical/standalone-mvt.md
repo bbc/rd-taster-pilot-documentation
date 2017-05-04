@@ -1,4 +1,4 @@
-# **TO BE DEPRECATED, PLEASE SPEAK TO THE TASTER TEAM FOR INFORMATION (tastertech@rd.bbc.co.uk)**
+# **DEPRECATED, PLEASE SPEAK TO THE TASTER TEAM FOR INFORMATION (tastertech@rd.bbc.co.uk)**
 
 # Offsite Quickrate MVT
 
