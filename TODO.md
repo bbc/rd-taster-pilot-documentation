@@ -41,9 +41,9 @@ Documents that need more adding to them
 - separate into test harness doc and functionality doc (deep linking etc)?
 
 ### technical/standalone-pilot-integration-steps.md
- - quick-rate badge
+ - quickrate badge
   - "There are two types of panel:" is not correct. Describe how badge behaves depending on pilot being published or not
-  - quick-rate badge for BBC pages code snippet
+  - quickrate badge for BBC pages code snippet
 
 
 
