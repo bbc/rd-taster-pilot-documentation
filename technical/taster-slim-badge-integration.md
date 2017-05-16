@@ -9,13 +9,13 @@ There are several components and specifications that must be included in your si
 1. The head of the document should contain the following script tag:
 
   ```
-  <script type="text/javascript" src="http://www.bbc.co.uk/taster/pilot-lib-slim.js"></script>
+  <script type="text/javascript" src="//www.bbc.co.uk/taster/pilot-lib-slim.js"></script>
   ```
 
 2. The iframe (which contains the quickrate badge) should be placed on the page with the following lines which initiate an iFrame pointed at the slim badge for your pilot. Please note that `<pilot-id>` should be replaced with the pilot ID that you have been assigned (if you are uncertain of this, please speak to the Taster team or refer to the Testing section at the end of this document):
 
   ```
-  <iframe class="taster-offsite-panel" src="http://www.bbc.co.uk/taster/projects/<pilot-id>/offsite/slim" frameborder="0" scrolling="no"></iframe>
+  <iframe class="taster-offsite-panel" src="//www.bbc.co.uk/taster/projects/<pilot-id>/offsite/slim" frameborder="0" scrolling="no"></iframe>
   ```
 
 3. At the end of the HTML document, the following code should be entered:
@@ -49,11 +49,11 @@ The badge will not be fully active, and interacting it will return a 404 page on
 1. In order to test the iFrame, please redirect the iframe to a test URL as shown in the following example code:
 
   ```
-  <iframe class="taster-offsite-panel" src="http://www.test.bbc.co.uk/taster/projects/automatedtestpilot/offsite/slim" frameborder="0" scrolling="no"></iframe>
+  <iframe class="taster-offsite-panel" src="//www.test.bbc.co.uk/taster/projects/automatedtestpilot/offsite/slim" frameborder="0" scrolling="no"></iframe>
   ```
 
 **This cannot be delivered to us in the final version. Please ensure that this is for testing only, and update to the correct version as per the instructions outlined in section 2 above.**
 
-### Please do not forget to add the legal links and cookie warnings as described in the [**Pilot Integration Guide**](standalone-pilot-integration-steps.md) 
+### Please do not forget to add the legal links and cookie warnings as described in the [**Pilot Integration Guide**](standalone-pilot-integration-steps.md)
 
 ### If you require any additional information or support, or you wish to make any changes to the instructions above, please contact a member of the Taster Team (tastertech@rd.bbc.co.uk).

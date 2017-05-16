@@ -40,8 +40,8 @@ Your pilot will need to include links to BBC Terms & Conditions documents.
 Typically you would place these links at the bottom of the screen, using HTML markup similar to:
 
 ```
-<a href="http://www.bbc.co.uk/privacy/information/policy/"target="_blank">Privacy policy</a> |
-<a href="http://www.bbc.co.uk/terms" target="_blank">Terms and conditions</a>
+<a href="//www.bbc.co.uk/privacy/information/policy/"target="_blank">Privacy policy</a> |
+<a href="//www.bbc.co.uk/terms" target="_blank">Terms and conditions</a>
 ```
 
 ## Cookie Warning
