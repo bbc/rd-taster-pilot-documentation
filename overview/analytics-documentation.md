@@ -12,6 +12,7 @@
 
 
 <div id='intro'/>
+
 ## Introduction
 Analytics are essential elements to your pilot. Taster is built on a data platform that is driven by the way we implement tracking in pilots and on the Taster site itself.
 
@@ -26,8 +27,8 @@ _There are 2 types of analytics implementation:_
 So what do I need to do... Don't worry! It's not difficult.
 
 <div id='Standard-Analytics'/>
-###Standard Analytics:
 
+### Standard Analytics:
 Your **standard** analytics are built into the Taster integration that you undertake with the Taster team, whether that's via the Taster site itself (for integrated pilots) or via the quickrate badge (for standalone pilots), which handles all data capture. This answers:
 
 1) How many people went to your experience + pageviews
@@ -40,10 +41,9 @@ If this is all you want to do, please go down to the [How do I do this?](#how-to
 
 If you want to know more about custom analytics, **read on..**
 
-
 <div id='custom-Analytics'/>
-###Custom behavioural Analytics:
 
+### Custom behavioural Analytics:
 **Custom** behavioural analytics however, need to be implemented separately as part of your build, but we want to make this easy for you, so there's a step by step process that you can take.
 
 In its simplest form, the custom behavioural data you want to usually capture is:
@@ -65,10 +65,12 @@ What you want to identify here is whether people interacted with 'things' in you
 **Another example:** I have a pilot that has a retry button at the end of the pilot. If we tag the retry button with an 'action', we can then tell how many people interacted with the retry button.
 
 <div id='how-to-do'/>
-##How do I Implement these?
+
+## How do I Implement these?
 
 <div id='standard'/>
-###STANDARD ANALYTICS:
+
+### STANDARD ANALYTICS:
 
 If you have just the requirement to know how many people engaged with your pilot, ratings, shares and survey answers - then you will need to do the following:
 
@@ -91,8 +93,10 @@ Your Content Producer will supply you with a pilot ID that you can then use to i
 
 **It is very important to select the correct variable and pilot ID when implementing as this will have impact in terms of analytics and attribution.**
 **If you are running your pilot on a BBC product page (Eg. Sport), please note that the correct URL variant must be used in your implementation to ensure there is no conflict on existing countername implementation. The implication of this will be that pageviews are not counted via the quickrate badge, and will not appear in the Taster dashboard. You will need to count pageviews via the product's countername.**
+
 <div id='custom'/>
-###CUSTOM BEHAVIOURAL ANALYTICS:
+
+### CUSTOM BEHAVIOURAL ANALYTICS:
 
 In order to add further analytics to the pilot, we are going to use the BBC's Echo libraries to set our custom analytics within our pilot.
 
@@ -195,8 +199,10 @@ In order to implement both of these analytics frameworks, as mentioned before, y
 
 Also – here’s a handy template that will allow you to visualise the tagging strategy that you’re creating:
 <a href="https://myshare.box.com/s/xa5k59pqei3jtdurnh32jzt5eely572a">Taster_pilot_analytics_framework.xlsx</a>
+
 <div id='reporting'/>
-##Reporting
+
+## Reporting
 
 The standard analytics flow directly into the Taster Dashboard. You don't need to worry about this.
 
