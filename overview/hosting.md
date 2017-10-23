@@ -22,7 +22,7 @@ We can host your application by deploying it into our (BBC sponsored) AWS accoun
 - We can only offer limited support of your actual application, e.g. looking at log files
 - We cannot provide access to the running infrastructure to your (development) team
 
-## Third party hosted
+## Third party hosted
 
 <img src="./images/hosting-3rd-party.png" alt="Third party hosting overview" width="650" >
 
