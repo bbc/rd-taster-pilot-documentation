@@ -36,9 +36,10 @@ We have developed two badges which will sit within your pilot. There is a Slim e
  [**Classic Badge Integration Guide**](taster-classic-badge-integration.md)
 
 ## Taster Feedback API
-For pilots which cannot use the web-based badges (e.g. a native iOS app), the Feedback API can be used to gather ratings and survey results. 
+For pilots which cannot use the web-based badges (e.g. a native iOS app), the Feedback API can be used to submit ratings and survey results. You will then build your own interface to to take the user through rating and responding to questions.
 
-The docs for this RESTful API can be found at https://feedback.api.taster.bbc/docs/
+The docs for this RESTful API can be found at https://feedback.api.taster.bbc/docs/. You will need to obtain an API key before you can use it.
+
 
 ## Legal Links
 
