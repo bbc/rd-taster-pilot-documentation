@@ -93,7 +93,9 @@ Your Content Producer will supply you with a pilot ID that you can then use to i
 
 **It is very important to select the correct variable and pilot ID when implementing as this will have impact in terms of analytics and attribution.**
 **If you are running your pilot on a BBC product page (Eg. Sport), please note that the correct URL variant must be used in your implementation to ensure there is no conflict on existing countername implementation. The implication of this will be that pageviews are not counted via the quickrate badge, and will not appear in the Taster dashboard. You will need to count pageviews via the product's countername.**
+
 <div id='custom'/>
+
 ### CUSTOM BEHAVIOURAL ANALYTICS:
 
 In order to add further analytics to the pilot, we are going to use the BBC's Echo libraries to set our custom analytics within our pilot.
@@ -197,8 +199,10 @@ In order to implement both of these analytics frameworks, as mentioned before, y
 
 Also – here’s a handy template that will allow you to visualise the tagging strategy that you’re creating:
 <a href="https://myshare.box.com/s/xa5k59pqei3jtdurnh32jzt5eely572a">Taster_pilot_analytics_framework.xlsx</a>
+
 <div id='reporting'/>
-##Reporting
+
+## Reporting
 
 The standard analytics flow directly into the Taster Dashboard. You don't need to worry about this.
 
