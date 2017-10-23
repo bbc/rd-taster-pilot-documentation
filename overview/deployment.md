@@ -1,4 +1,4 @@
-#Deploying your application
+# Deploying your application
 
 When your application is working, you will want to deploy it into the live environment. We **strongly recommend deploying your application early** (even if its not *finished* yet) so that deployment and integration issues can be discovered and resolved.
 
