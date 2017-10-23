@@ -65,9 +65,11 @@ What you want to identify here is whether people interacted with 'things' in you
 **Another example:** I have a pilot that has a retry button at the end of the pilot. If we tag the retry button with an 'action', we can then tell how many people interacted with the retry button.
 
 <div id='how-to-do'/>
+
 ## How do I Implement these?
 
 <div id='standard'/>
+
 ### STANDARD ANALYTICS:
 
 If you have just the requirement to know how many people engaged with your pilot, ratings, shares and survey answers - then you will need to do the following:
