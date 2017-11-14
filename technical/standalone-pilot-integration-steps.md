@@ -14,7 +14,7 @@ The Taster quickrate badge adds some key functionality to your pilot:
  - manages audience expectation by advertising that the pilot may break
  - provides [standard analytics](../overview/analytics-documentation.md#Standard-Analytics) for the pilot
 
-We have developed two badges which will sit within your pilot. There are Slim and Wide editions. Each of these may be chosen for different reasons outlined below:
+We have a choice of two rating badge editions to integrate into your pilot, a Slim edition and a Wide edition. We outline some considerations for each edition when making this decision:
 
 * ### Slim edition
 
