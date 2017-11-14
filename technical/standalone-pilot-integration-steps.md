@@ -14,7 +14,7 @@ The Taster quickrate badge adds some key functionality to your pilot:
  - manages audience expectation by advertising that the pilot may break
  - provides [standard analytics](../overview/analytics-documentation.md#Standard-Analytics) for the pilot
 
-We have developed two badges which will sit within your pilot. There is a Slim edition and a Classic Edition. Each of these may be chosen for different reasons outlined below:
+We have developed two badges which will sit within your pilot. There are Slim and Wide editions. Each of these may be chosen for different reasons outlined below:
 
 * ### Slim edition
 
@@ -22,16 +22,19 @@ We have developed two badges which will sit within your pilot. There is a Slim e
 
  http://dummy.pilots.bbcconnectedstudio.co.uk/offsite_slim
 
- If you wish to use this version of the badge, please refer to the integration documentation in the associated document, i.e:
+ If you wish to use this version of the badge, please refer to the integration documentation in the associated document:
 
  [**Slim Badge Integration Guide**](taster-slim-badge-integration.md)
 
-* ### Classic edition
+* ### Wide edition
 
- The Taster Classic Badge is a larger badge that sits full width at the very top of your pilot, above all other content as a separate element. You may wish to use this badge if your layout prevents the overlay of the slim badge; if you wish to increase the conversion to ratings (the slim badge is smaller); or your pilot is primarily intended for desktop applications.
- If you wish to use the classic badge at this time, please refer to the integration documentation in the associated document, i.e:
+ The Taster Wide Badge is a larger badge that sits full width at the very top of your pilot, above all other content as a separate element. You may wish to use this badge if your layout prevents the overlay of the slim badge; if you wish to increase the conversion to ratings (the slim badge is smaller); or your pilot is primarily intended for desktop applications.
 
- [**Classic Badge Integration Guide**](taster-classic-badge-integration.md)
+ http://dummy.pilots.bbcconnectedstudio.co.uk/offsite_wide
+
+ If you wish to use the wide badge, please refer to the integration documentation in the associated document:
+
+ [**Wide Badge Integration Guide**](taster-wide-badge-integration.md)
 
 ## Legal Links
 
