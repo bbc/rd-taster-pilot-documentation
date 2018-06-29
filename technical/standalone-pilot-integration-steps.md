@@ -1,9 +1,11 @@
 # Integration steps for standalone pilots
 
-These instructions are for pilot teams for whom their pilot will **not** be integrated into Taster. In this instance, Taster will present a link which will direct users to a different URL under which the pilot is accessible. As such, the rating/sharing functionality, legal links, and cookie warnings, which are built into Taster, will not be accessible. The solution to this problem has been resolved through the use of iFrames.
+These instructions are for pilot teams for whom their pilot will **not** be integrated into Taster. This may be because the pilot is hosted on a third party server, or is an app, voice skill or other non-webpage experience.
+
+When a visitor to the Taster website clicks 'try' on a standalone pilot, they will be redirected to a separate URL under which the pilot is accessible. As such, the rating/sharing functionality, legal links, and cookie warnings, which are built into Taster, will not be accessible. Instead, Taster integration is achieved using iFrames or APIs.
 
 If your pilot is being presented in its own page, it **must** include the following
-- [Taster Quickrate Badge](#taster-quickrate-badge)
+- Either [Taster Quickrate Badge](#taster-quickrate-badge), or [Taster Feedback API](#taster-feedback-api) integrations for pilots that are apps.
 - [Legal Links](#legal-links)
 - [Cookie Warning](#cookie-warning)
 
@@ -35,6 +37,12 @@ We have a choice of two rating badge editions to integrate into your pilot, a Sl
  If you wish to use the wide badge, please refer to the integration documentation in the associated document:
 
  [**Wide Badge Integration Guide**](taster-wide-badge-integration.md)
+
+## Taster Feedback API
+For pilots which cannot use the web-based badges (e.g. a native iOS app), the Feedback API can be used to submit ratings and survey results. You will then build your own interface to to take the user through rating and responding to questions.
+
+The docs for this RESTful API can be found at https://feedback.api.taster.bbc/docs/. You will need to obtain an API key before you can use it.
+
 
 ## Legal Links
 
